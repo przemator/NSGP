@@ -1,0 +1,74 @@
+﻿c/u/btn_NavBar_Home/Home Screen
+The home screen is where you can find basic details about your player and the current championship standings. There are 17 races in a season and the aim is to finish top of the driver's championship. There is also a contructors championship table which lists the teams competing in the grand prix and the points they have. There are 10 teams, each with 2 drivers.
+
+c/u/Title Bar
+
+btn_Header_Help/Brings up the help screen.
+
+btn_Header_Options/The spanner icon allows you to edit various game settings.
+
+btn_Header_Quit/To quit the game at any time just click the exit button. Your game will be saved before exiting.
+pagebreak/
+c/u/Navigation Bar
+
+btn_NavBar_Home/Takes you back to the home screen.
+
+btn_NavBar_Leaderboards/Lets you check past results for all the tracks. Also allows you to upload your best laptimes to the online leaderboard.
+
+btn_NavBar_Team/Here you can check out all the teams and drivers in more detail. You can also edit the names if you wish.
+
+btn_NavBar_Finances/Head to the shop to purchase vehicles and property. You can also race your own vehicles from this screen.
+
+btn_NavBar_Casino/Visit the casino and win big!
+pagebreak/
+c/u/Relationships
+imgRelationsBoss/Keep the boss happy and you will be driver number 1 in the team. Driver 1 earns twice as much prize money than driver 2 after a race. You can impress the boss by setting good lap times in the practice sessions, by getting a good grid position or with a good finishing position in the race. The bosses of the stronger teams will expect more success than those of the lower ranked teams.
+
+imgRelationsPitCrew/If your pit crew are happy then your pitstops will be quicker. You can impress your pit crew by completing laps without taking any damage. Excessive damage will annoy them. You can also visit the casino with your pit buddies.
+
+imgRelationsFans/Fans respond to your performances. Get good grid positions and race results and they will adore you. The more famous you are the better your sponsorship offers will be.
+
+imgRelationsFriends/Friends require that you spend some time with them occasionally. If you neglect your friends then your life will be more stressful and your reaction times will be affected on the starting grid. If your friends are unhappy you will notice the car is slower to respond at the race start. Try not to accelerate before the lights go out or you will start even more slowly.
+pagebreak/
+btn_NavBar_Practice/Practise sessions allow you to learn the current race. Setting good lap times will impress the boss.
+
+btn_NavBar_Play/The play button will progress time from one day to the next.
+
+btn_NavBar_PlayQualify/On Saturday you will have to set a qualifying time to determine your place on the starting grid. The better your time the higher up the grid you will start. There is a time limit for qualifying which is displayed at the top of the screen.
+
+btn_NavBar_PlayRace/This will start the race itself. To stand a chance of winning you will need to keep an eye on several key factors as described on the next page.
+
+Points are awarded as follows:
+1st = 10
+2nd = 8
+3rd = 6
+4th = 5
+5th = 4
+6th = 3
+7th = 2
+8th = 1
+
+pagebreak/
+u/Damage
+If you hit other cars or the track walls your car will suffer damage. As you sustain more damage the top speed of your car will be limited.
+
+u/Fuel
+Obviously running out of fuel means that you will be out of the race. The fuel level does affect the speed of the car though so there are advantages to racing with a low fuel level. Less fuel means the car is lighter and will be faster than it is with a full tank.
+
+u/Tyre Wear
+During the course of a race your tyres will deteriorate. This will make cornering harder as your tyres lose grip. The rate of tyre wear will increase if you run the wheels on the dirty part of the track which lies outside of the white lines. It will increase significantly if you hit the grass or gravel at high speeds.
+pagebreak/
+c/u/Pit Stops
+
+Pit stops are crucial in New Star Grand Prix and making tactical stops can mean the difference between success and failure. You initiate a pit stop by driving through the pit lane at which point the game will pause and the pit stop panel will appear. 
+
+u/Pit Stop Panel
+Use your control keys to set a desired fuel level. As explained on the page before, it is sometime advantageous to not fill the tank completely.
+
+Changing tyres will restore the tyre wear. If it is raining then you will need to switch to wet tyres in order to maintain maximum grip on the track. Running slick tyres on a wet track will make the racing very slippery and dangerous! 
+
+Once you are happy with the desired settings switch from paused to race.
+
+u/Pit Stop Times
+The speed at which your pit crew refuel, repair and replace tyres is determined by your relationship with them. Pit stops will complete once the car is refueled and completely repaired. Changing tyres will mean that the minimun length of the pit stop is at least a few seconds even if the car does not need refuelling or repairing.
+

@@ -1,0 +1,36 @@
+[29-Jun-2009 08:19:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'newst10_gary'@'localhost' (using password: YES) in /home/newst10/public_html/leaderboards/lr_submittime.php on line 15
+[29-Jun-2009 08:19:33] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'newst10_gary'@'localhost' (using password: YES) in /home/newst10/public_html/leaderboards/lr_leaderboard.php on line 8
+[29-Jun-2009 08:19:57] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'newst10_gary'@'localhost' (using password: YES) in /home/newst10/public_html/leaderboards/lr_leaderboard.php on line 8
+[29-Jun-2009 08:22:00] PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /home/newst10/public_html/leaderboards/lr_leaderboard.php on line 13
+[02-Nov-2009 09:00:19] PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /home/newst10/public_html/leaderboards/nss2010_leaderboard.php on line 15
+[02-Nov-2009 09:00:23] PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /home/newst10/public_html/leaderboards/nss2010_leaderboard.php on line 15
+[02-Nov-2009 09:00:25] PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /home/newst10/public_html/leaderboards/nss2010_leaderboard.php on line 15
+[02-Nov-2009 09:01:24] PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /home/newst10/public_html/leaderboards/nss2010_leaderboard.php on line 15
+[02-Nov-2009 09:02:44] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/newst10/public_html/leaderboards/nss2010_leaderboard.php on line 15
+[08-Nov-2009 20:15:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (13) in /home/newst10/public_html/leaderboards/nss2010_submit.php on line 30
+[08-Nov-2009 20:15:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (13) in /home/newst10/public_html/leaderboards/nss2010_leaderboard.php on line 10
+[08-Nov-2009 20:35:58] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/newst10/public_html/leaderboards/nss2010_submit.php on line 30
+[08-Nov-2009 20:36:01] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/newst10/public_html/leaderboards/nss2010_leaderboard.php on line 10
+[08-Nov-2009 20:47:37] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/newst10/public_html/leaderboards/nss2010_leaderboard.php on line 10
+[13-Jan-2010 09:05:25] PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /home/newst10/public_html/leaderboards/nsgp_leaderboard.php on line 13
+[22-Feb-2010 14:37:44] PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /home/newst10/public_html/leaderboards/nss2010_leaderboard.php on line 15
+[22-Feb-2010 14:37:49] PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /home/newst10/public_html/leaderboards/nss2010_leaderboard.php on line 15
+[28-Mar-2010 15:17:54] PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /home/newst10/public_html/leaderboards/nsgp_leaderboard.php on line 13
+[31-Mar-2010 15:27:19] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/newst10/public_html/leaderboards/lr_submittime.php on line 14
+[12-Oct-2010 03:15:42] PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /home/newst10/public_html/leaderboards/nss2010_leaderboard.php on line 15
+[12-Oct-2010 15:57:25] PHP Parse error:  syntax error, unexpected ')' in /home/newst10/public_html/leaderboards/nsgp_submittime.php on line 34
+[12-Oct-2010 15:57:32] PHP Parse error:  syntax error, unexpected ')' in /home/newst10/public_html/leaderboards/nsgp_submittime.php on line 34
+[12-Oct-2010 15:59:08] PHP Parse error:  syntax error, unexpected ')' in /home/newst10/public_html/leaderboards/nsgp_submittime.php on line 34
+[12-Oct-2010 16:00:59] PHP Parse error:  syntax error, unexpected ')' in /home/newst10/public_html/leaderboards/nsgp_submittime.php on line 34
+[12-Oct-2010 16:01:08] PHP Parse error:  syntax error, unexpected ')' in /home/newst10/public_html/leaderboards/nsgp_submittime.php on line 34
+[12-Oct-2010 16:01:54] PHP Parse error:  syntax error, unexpected ')' in /home/newst10/public_html/leaderboards/nsgp_submittime.php on line 34
+[12-Oct-2010 16:02:02] PHP Parse error:  syntax error, unexpected ')' in /home/newst10/public_html/leaderboards/nsgp_submittime.php on line 34
+[12-Oct-2010 16:06:13] PHP Parse error:  syntax error, unexpected ')' in /home/newst10/public_html/leaderboards/nsgp_submittime.php on line 34
+[12-Oct-2010 16:07:38] PHP Parse error:  syntax error, unexpected ')' in /home/newst10/public_html/leaderboards/nsgp_submittime.php on line 34
+[12-Oct-2010 16:07:49] PHP Parse error:  syntax error, unexpected ')' in /home/newst10/public_html/leaderboards/nsgp_submittime.php on line 34
+[12-Oct-2010 16:08:30] PHP Parse error:  syntax error, unexpected ')' in /home/newst10/public_html/leaderboards/nsgp_submittime.php on line 34
+[12-Oct-2010 16:16:21] PHP Parse error:  syntax error, unexpected ')' in /home/newst10/public_html/leaderboards/nsgp_submittime.php on line 35
+[12-Oct-2010 16:18:50] PHP Parse error:  syntax error, unexpected ')' in /home/newst10/public_html/leaderboards/nsgp_submittime.php on line 35
+[12-Oct-2010 16:19:02] PHP Parse error:  syntax error, unexpected '}' in /home/newst10/public_html/leaderboards/nsgp_submittime.php on line 35
+[12-Oct-2010 16:43:07] PHP Parse error:  syntax error, unexpected '}' in /home/newst10/public_html/leaderboards/nsgp_submittime.php on line 37
+[12-Oct-2010 16:43:41] PHP Parse error:  syntax error, unexpected '}' in /home/newst10/public_html/leaderboards/nsgp_submittime.php on line 39

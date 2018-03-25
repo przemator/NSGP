@@ -1,0 +1,74 @@
+c/u/btn_NavBar_Home/Schermata Home
+In questa schermata puoi trovare i dettagli minimi del tuo giocatore e le classifiche attuali per i titoli mondiali. Ci sono 17 gare e l'obbiettivo è finire in cima alla classifica piloti. C'è anche la classifica del titolo costruttori dove c' la lista dei team che stanno partecipando al mondiale. Ci sono 10 team, ognuno con 2 piloti.
+
+c/u/Icone
+
+btn_Header_Help/Per i file di aiuto.
+
+btn_Header_Options/Ti permette di cambiare le preferenze di gioco.
+
+btn_Header_Quit/Per uscire dal gioco basta cliccare su questo pulsante. La partita sarà salvata automaticamente.
+pagebreak/
+c/u/Barra Navigazione
+
+btn_NavBar_Home/Riporta alla Schermata Home.
+
+btn_NavBar_Leaderboards/Controlla i tempi e i risultati passati su tutti i circuiti. Permette anche di fare l'upload dei tempi migliori.
+
+btn_NavBar_Team/Qui puoi controllare tutti i team e i piloti. Puoi anche modificare i loro nomi.
+
+btn_NavBar_Finances/Porta al negozio dove puoi comprare macchine e proprietà. Puoi anche provare le macchine acquistate sui vari circuiti del mondiale.
+
+btn_NavBar_Casino/Visita il casino e vinci!
+pagebreak/
+c/u/Rapporti
+imgRelationsBoss/Fai felice il Boss e ti promuoverà a prima guida del team. La prima guida del team guadagna il doppio della seconda guida. Puoi impressionare il boss facendo tempi ottimi nella sessione pratica, e anche raggiungendo i primi posti nella griglia di partenza. I Boss dei team più importanti pretenderanno più vittorie degli altri Boss.
+
+imgRelationsPitCrew/Se i tuoi meccanici saranno felici i tuoi pit stop saranno più veloci. Puoi impressionare i meccanici facendo giri puliti senza danneggiare la monoposto. Danni eccessivi peggioreranno il tuo rapporto con loro. Puoi anche andare al casino con loro.
+
+imgRelationsFans/I tifosi risponderanno alle tue performance. Ottieni buone posizioni in griglia e ottimi risultati in gara e ti adoreranno. Più sarai famoso più attirerai Sponsor ricchi.
+
+imgRelationsFriends/Gli amici richiedono di passare del tempo con loro ogni tanto. Se non avrai un buon rapporto con gli amici la tua vita sarà più stressante e partirai più lento dalla griglia di partenza. Se i tuoi amici saranno infelici la monoposto risponderà più lentamente ai tuoi comandi. Non accelerare prima che i semafori si spengano altrimenti partirai lentamente.
+pagebreak/
+btn_NavBar_Practice/Le sessioni di pratica ti permetteranno di conoscere i segreti di ogni pista. Fare dei buoni giri impressionerà il tuo Boss.
+
+btn_NavBar_Play/Il pulsante Gioca ti farà procedere al giorno successivo.
+
+btn_NavBar_PlayQualify/Ogni Sabato dovrai affrontare la sessione di qualifica per determinare la tua posizione in griglia. Migliore sarà il tuo tempo migliore sarà la tua posizione in griglia. C'è un limite di tempo per qualificarsi che è visualizzato in cima allo schermo.
+
+btn_NavBar_PlayRace/Premi il pulsante per far partire la gara. Per tentare di vincere avrai bisogno di fare attenzione a tanti fattori descritti nella prossima pagina.
+
+I punti sono così ripartiti:
+1st = 10
+2nd = 8
+3rd = 6
+4th = 5
+5th = 4
+6th = 3
+7th = 2
+8th = 1
+
+pagebreak/
+u/Danni
+Se colpisci le altre monoposto o i muri del circuito la tua monoposto subirà dei danni. I danni limiteranno la massima velocità raggiungibile dalla monoposto.
+
+u/Benzina
+Ovviamente se rimani senza benzina la tua gara finirà. Il livello di benzina avrà effetti sulla velocità della monoposto quindi ci saranno dei vantaggi se si avrà un basso livello di benzina. Un minore quantitativo di benzina renderà la macchina più leggera e quindi più veloce.
+
+u/Consumo Pneumatici
+Durante la corsa i tuoi pneumatici si consumeranno. Questo comporterà una maggiore difficoltà nel tenere a bada la monoposto visto che si perderà del grip con l'asfalto. I pneumatici si consumeranno prima se le porterai fuori pista quindi sull'erba. Incrementerà anche se si faranno dei fuori pista ad alta velocità.
+pagebreak/
+c/u/Pit Stop
+
+I pit stop sono cruciali in New Star Grand Prix e fare dei pit stop tattici farà la differenza per la vittoria finale. Quando si inizia il pit stop comparirà il pannello pit stop e il gioco entrerà in pausa.
+
+u/Pannello Pit Stop
+Usa i controlli di guida per scegliere il livello di benzina desiderato. Come già spiegato in precedenza il livello di benzina influirà sulle prestazioni della monoposto.
+
+Cambiare i pneumatici ristorerà il consumo. Se piove avrai bisogno di cambiare i tuoi pneumatici e usare quelli da bagnato per avere un maggior grip. Correre con dei pneumatici da asciutto su una pista bagnata sarebbe pericoloso!
+
+Una volta che sei soddisfatto dei settaggi scelti esci dalla pausa.
+
+u/Tempi Pit Stop
+La velocità con la quale i meccanici riparano e ricaricano il serbatoio di benzina sarà determinata dal tuo rapporto con loro. I pit stop saranno completati una volta che tutte le azioni saranno completate. Cambiare solo i pneumatici comporterà uno stop minimo nel pit stop.
+

@@ -1,0 +1,69 @@
+﻿c/u/Düzenleme Talimatlari
+
+
+Pistleri lütfen asagidaki talimatlara göre düzenleyin ve sikça kaydetmeyi unutmayin. Varolan pistleri, iyi bir pist olusturmada sablon olarak kullanabilirsiniz.
+
+Escape tusunu kullanarak ana görünüm ve düzenleme görünümleri arasinda geçis yapabilirsiniz.
+
+u/Pist Zemini
+
+Pist Zemini modunda baslayin ve pisti olusturun. Ekrandaki talimatlari izleyerek döndürme, yerine koyma ve silme islemleri yapin.
+ 
+Harita Yükle seçenegini kullanarak gerçek bir pist haritasi görüntüleyin, ardindan pist zeminini üzerine yerlestirin. Haritalar TrackIm_1.png adini tasir TrackIm_17.png ye kadar isim alirlar ve Media/Tracks klasöründe bulunabilirler.
+
+u/Pit Seridi
+
+Pit seridinin her zaman dikey ya da yatay düzlükte olmasina dikkat etmelisiniz. 22 araçlik baslama çizgisi olusturulabilir. Sadece pit bölme zemini A-J ve baslangiç zemini kullanin 1-20.
+
+u/Yaris Çizgisi
+
+Pisti olusturduktan sonra yaris çizgilerini çizebilirsiniz. Ilk nokta baslama/bitis çizgisinden bir kare uzakta ve son nokta baslama/bitis çizgisinden bir kare geride olmalidir. 
+
+Genellikle pistin ortasinda kalin, dönemeçlerde 2 ya da 3 puanlik kullanin.
+
+u/Pit Seridi
+
+Yaris seridine benzer sekilde, pit seridi çekmelisiniz.
+
+u/Pisti Test Et
+
+Simdi pisti test edebilirsiniz! Öncelikli olarak kaydedin, ve daha sonra yeniden açin (bu, karelerin üzerine araçlari yerlestirecektir.) Sürmek için D'ye basin. D'ye ya da Escape'e basarak düzenleme görünümüne geri dönebilirsiniz.
+
+u/Çakil Tasi Tuzaklari
+
+Pist hazirlandiktan sonra çakil taslarini yerlestirmek iyi bir fikirdir. Bunlar, Nesneler moduna girerek çizilebilir.
+
+u/Nesneler - Duvarlar
+
+Duvar resimleri araçlari gerçekten durdurmazlar. Sadece çizimdirler. Durdurmalar Duvar Çizgileriyle yapilir.
+
+Pist zemini üzerine duvar resimleri kullanarak duvar yerlestirebilirsiniz. Pist tamamen duvarlarla kapli olmalidir. Duvarlar arasindaki bosluklari agaçlarla kapatabilirsiniz.
+
+u/Duvar Çizgileri
+
+Resimleri yerlestirdikten sonra duvar çizgilerini yerlestirerek sürücülerin pistten çikmasini önlemek gereklidir. Bunlar önceden yerlestirdiginiz duvar resimlerini izlemeli ve pisti tamamen korumalidir. 
+
+3 duvara ihtiyaciniz vardir. Biri pist disi için, biri pist içi için ve biri de baslangiç çizgisini pit çizgisinden ayirmak için.
+
+Duvarin ilk ve son noktalarinin birlesimine dikkat edin, bosluk kalmamalidir. (bu pit seridi duvari için geçerli degildir)
+
+Sol SHIFTi basili tutarak yeni bir duvar baslatabilirsiniz.
+
+u/Kontrol Noktalari
+
+Kontrol noktalari, oyuncularin tam bir turu tamamlamalarindan emin olmalarini saglar. Genellikle dönemeçlere ve geçitlere yerlestirebilirsiniz. Çogu pistte toplamda 30 kontrol noktasi bulunur.
+
+Kontrol noktalari duvarlari distan içe sarmalidir (yapabilirseniz duvarlarin üzerinden geçmesini saglayin).
+
+Ilk kontrol noktasi baslangiç/bitis çizgisinin tam üzerinde olmalidir.
+
+Son kontrol noktasi pit girisinden önce olmalidir
+
+u/Nesneler
+
+Geri kalan nesneleri artik yerlestirebilirsiniz. 
+
+u/Yaris
+
+Pisti dogru bir sekilde olusturmadiysaniz yaris çökebilir. Yaris çizgisi, kontol noktasi vb. önemli ögelerin dogru olusturuldugundan emin olun.
+

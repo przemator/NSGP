@@ -1,0 +1,5 @@
+<panel name="pan_slotmachinenudges" x="251" y="420" w="298" h="60" colour="" alpha="0.75">
+	<button name="btn_nudge1"			x="10" 		y="10" 		w="80"		h="40"	yalign="1"	text="Nudge" font="Medium"/>
+	<button name="btn_nudge2"			x="110"		y="10" 		w="80"		h="40"	yalign="1"	text="Nudge" font="Medium"/>
+	<button name="btn_nudge3"			x="210"		y="10" 		w="80"		h="40"	yalign="1"	text="Nudge" font="Medium"/>
+</panel>

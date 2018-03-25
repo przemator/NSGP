@@ -1,0 +1,7 @@
+<panel name="pan_quickrace" x="450" y="340" w="300" h="230" colour="" alpha="0.75">
+	<table name="tbl_load" x="10" y="10" heading="Track" w="280" h="150" ih="18" alpha="0.5" colour="000000" textcolour="FFFFFF" selectcolour="FFFF00" selecttext="000000" headcolour="333333" headalpha="0.5" selectalpha="0.5" font="">
+	</table>
+	<label name="lbl_driver" 		x="10" 	y="172" 	w="90" 	h="20" textcolour="FFFFFF" text="Driver" xalign="2" font=""/>
+	<combobox name="cmb_driver"		x="110" y="170" 	w="180"	h="20" text="Driver"/>
+	<button name="btn_race" 		x="10" 	y="200" 	w="280" h="20" text="Race" link="" textcolour="FFFFFF" font="Default"/>
+</panel>

@@ -1,0 +1,5 @@
+﻿c/u/Talliruutu
+
+Kaikkien tallien yksityiskohdat ja ajajat löytyvät täältä. Käytä navigointinäppäimiä vaihtaaksesi talleja.
+
+btn_TeamProfile_EditTeam/Vaihdat tallin, tallipäällikön ja ajajien nimiä.

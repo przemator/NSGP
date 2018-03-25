@@ -1,0 +1,4 @@
+<panel name="pan_title" x="450" y="10" w="300" h="60" colour="" alpha="0.75">
+	<label name="title1" x="10" y="14" w="280" h="30" text="New Star GP" xalign="1" yalign="1" textcolour="FFFFFF" font="Large"/>
+	<label name="lbl_version" x="5" y="40" w="290" h="20" text="version" xalign="2" yalign="1" textcolour="FFFFFF" font="Small"/>
+</panel>

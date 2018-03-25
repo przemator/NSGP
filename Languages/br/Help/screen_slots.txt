@@ -1,0 +1,23 @@
+﻿c/u/Tela do Caça-Níqueis
+
+u/Aposta
+Seleciona a aposta que desejar apostar no menu.
+
+u/Jogar
+Use o botão jogar para começar o jogo.
+
+u/Mudar
+Quando você consegue duas frutas, você pode usar esta opção. Quando eles tiverem disponíveis, você pode alterar uma posição. Você não pode alterar a aposta.
+
+c/u/Regras
+
+O objetivo do jogo é conseguir 3 frutas iguais. O prêmio depende do tipo de fruta.
+
+Laranjas = Aposta x 5
+Ameixas = Aposta x 10
+Bananas = Aposta x 15
+Maçãs = Aposta x 20
+Uvas = Aposta x 25s
+Cerejas = Aposta x 30
+Abacaxis = Aposta x 40
+Morangos = Aposta x 50

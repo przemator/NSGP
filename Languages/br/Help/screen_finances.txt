@@ -1,0 +1,10 @@
+﻿c/u/Finanças
+
+u/Finanças
+Este paintel mantém um registro do dinheiro ganho, gasto e perdido.
+
+u/Carros
+Você pode comprar carros de rua aqui. Uma vez que os tenha, você pode usá-las na pista de teste. Se quiser melhorar seu relacionamento com os amigos, por que não comprar um carro para eles?
+
+u/Propriedades
+Possuir propriedades provam quem realmente ganha dinheiro nos grand prix. COmprar propriedades para seus amigos irá aumentar seu relacionamento com eles signficativamente.

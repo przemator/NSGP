@@ -1,0 +1,17 @@
+<panel name="pan_teamprofile" x="10" y="70" w="780" h="180" colour="" alpha="0.75">
+	<label name="lbl_name"			x="372"		y="15"		w="450"		h="30" text="Team Profile"	xalign="0" yalign="1" textcolour="FFFFFF" font="Large"/>
+	
+	<label name="lbl_principal" 	x="320" 	y="58" 		w="200" 	h="30" textcolour="FFFFFF" text="Principal" xalign="0" yalign="0" font=""/>
+	<label name="lbl_driver1A" 		x="300" 	y="92" 		w="200" 	h="30" textcolour="FFFFFF" text="Driver" xalign="0" yalign="0" font=""/>
+	<label name="lbl_driver2A" 		x="300" 	y="124" 	w="200" 	h="30" textcolour="FFFFFF" text="Driver" xalign="0" yalign="0" font=""/>
+			
+	<label name="lbl_principal2" 	x="300" 	y="72" 		w="200" 	h="30" textcolour="FFFFFF" text="" xalign="0" yalign="0" font="Medium"/>
+	<label name="lbl_driver1B" 		x="300" 	y="104" 	w="200" 	h="30" textcolour="FFFFFF" text="" xalign="0" yalign="0" font="Medium"/>
+	<label name="lbl_driver2B" 		x="300" 	y="136" 	w="200" 	h="30" textcolour="FFFFFF" text="" xalign="0" yalign="0" font="Medium"/>
+	<label name="lbl_champs" 		x="300" 	y="158" 	w="200" 	h="30" textcolour="FFFFFF" text="Championships" xalign="0" yalign="0" font=""/>
+		
+	<table name="tbl_profile" 		x="522" 	y="50" 	heading="" w="120" h="180" ih="18" alpha="0.5" colour="000000" textcolour="FFFFFF" selectcolour="FFFF00" selecttext="000000" headcolour="333333" headalpha="0.5" selectalpha="0.5" font="">
+		<tablecolumn heading="Season" w="60"/>
+		<tablecolumn heading="All Time" w="60"/>
+	</table>
+</panel>

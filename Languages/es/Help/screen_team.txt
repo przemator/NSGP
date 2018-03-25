@@ -1,0 +1,5 @@
+﻿c/u/Pantalla de equipos
+
+Aqui puedes encontrar detalles de todos los equipos y pilotos. Usa los botones de navegación para moverte entre los equipos.
+
+btn_TeamProfile_EditTeam/Te permite editar el nombre del equipo, los pilotos y el director.

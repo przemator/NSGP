@@ -1,0 +1,3 @@
+<panel name="pan_editorexit" x="10" y="520" w="200" h="70" colour="" alpha="0.75">
+	<button name="btn_exit" x="10" y="10" w="180" h="50" text="Exit" link="" textcolour="FFFFFF" font="Large"/>
+</panel>

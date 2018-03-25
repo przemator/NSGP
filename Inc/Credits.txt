@@ -1,0 +1,24 @@
+
+New Star GP
+Designed by Simon Read
+Graphics by Ryan Sumo and Simon Read
+GUI Code by Liam McGuigan
+Music by Dynamedion
+Background photos by CJ
+Special thanks to...
+Brucey (LibCurl & Locale Modules)
+TeaMonkey (SQlite Module)
+Leadwerks (Netwerks Module)
+Beaker (Fontext)
+Ziggy (Blide)
+Bradley Davies (Track tiles)
+Victor Paranhos (Hockemring + Tiles)
+Dan'on (Korea/2010 Mod)
+DJ Parker (Data)
+Alex (Track editing)
+Robbyd (Canada/Bahrain)
+And thanks to all the forum testers!
+
+Copyright 2010 New Star Games Ltd
+
+

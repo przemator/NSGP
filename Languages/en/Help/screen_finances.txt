@@ -1,0 +1,10 @@
+﻿c/u/Finances
+
+u/Finances
+This panel keeps track of the money earned, spent and lost.
+
+u/Cars
+You can purchased road cars here. Once owned you can race it around the test track. If you wish to boost your relationship with friends then why not buy them a car!
+
+u/Property
+Owning property will prove who are the real big money earners in grand prix. Buying property for you friends will improve the relationship significantly.

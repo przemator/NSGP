@@ -1,0 +1,26 @@
+﻿c/u/Nuovo Giocatore
+
+Quando inizi una nuova carriera devi inserire i dettagli del pilota e scegliere un team.
+
+c/u/Team
+
+Le monoposto per ogni team hanno caratteristiche diverse.
+
+u/Manovrabilità
+Determina quanto bene la macchina risponde alle sterzate.
+
+u/Accelerazione
+Determina quanto velocemente la tua monoposto raggiunge la massima velocità.
+
+u/Velocità
+Determina la velocità massima della monoposto.
+
+La benzina nel serbatoio, i danni e il consumo dei pneumatici influiscono pesantemente sugli attributi della monoposto durante la gara.
+
+Una volta scelto il team devi decidere quale pilota rimpiazzare. I piloti potrebbero tornare in gioco accettando contratti con altri team nelle stagioni successive.
+
+c/u/Salva File
+
+Scegli un nome per il salvataggio. I file di salvataggio saranno salvati in Documenti/New Star Grand Prix.
+
+Puoi iniziare tante carriere usando lo stesso nome pilota. Avrai solo bisogno di dare nomi diversi ai salvataggi.

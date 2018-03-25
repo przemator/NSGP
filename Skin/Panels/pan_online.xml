@@ -1,0 +1,43 @@
+<panel name="pan_online" x="10" y="10" w="780" h="580" colour="" alpha="0.75">
+	<label name="lbl_title1"		x="100"		y="10"		w="580"			h="30" text="Online Racing"	xalign="1" textcolour="FFFFFF" font="Large"/>
+
+	<button name="btn_lan" 		x="10" 		y="10"	 	w="100" 		h="30" text="Internet" link="" textcolour="FFFFFF" font=""/>
+	
+	<table name="tbl_servers" x="10" y="50" heading="Game" w="118" h="290" ih="20" alpha="0.5" colour="000000" textcolour="FFFFFF" selectcolour="000000" selecttext="FFFFFF" headcolour="FFFFFF" headalpha="0.5" selectalpha="0.5" font="">
+	<tablecolumn heading="Track" w="88"/>
+	<tablecolumn heading="Racers" w="48"/>
+	<tablecolumn heading="Settings" w="146"/>
+	<tablecolumn heading="IP Address" w="80"/>
+	<tablecolumn heading="Status" w="50"/>
+	</table>
+	
+	<label name="lbl_onlinesettings"	x="10"		y="338"		w="560"		h="20" text="OnlineSettings"	xalign="0" textcolour="FFFFFF" font=""/>
+	
+	<button name="btn_refresh" 		x="570" 		y="50"	 	w="200" 		h="30" text="Refresh" link="" textcolour="FFFFFF" font="Medium"/>
+	<button name="btn_join" 		x="570" 		y="90"	 	w="200" 		h="30" text="Join Game" link="" textcolour="FFFFFF" font="Medium"/>
+	<button name="btn_host" 		x="570" 		y="130"	 	w="200" 		h="30" text="Host Game" link="" textcolour="FFFFFF" font="Medium"/>
+	
+	<label name="lbl_track"			x="570"			y="170"		w="200"			h="20" text="Track"	xalign="0" textcolour="FFFFFF" font=""/>
+	<combobox name="cmb_track"		x="570" 		y="190" 	w="200"			h="20" text="Track"/>
+	<checkbox name="chk_bots" 		x="570" 		y="216" 	w="200" 		h="20" textcolour="FFFFFF" text="COM Racers"/>
+	<checkbox name="chk_collisions" x="570" 		y="233" 	w="200" 		h="20" textcolour="FFFFFF" text="Collisions"/>
+	<checkbox name="chk_quali" 		x="570" 		y="250" 	w="200" 		h="20" textcolour="FFFFFF" text="Qualifying Lap"/>
+	<button name="btn_play" 		x="570" 		y="270"	 	w="200" 		h="30" text="Play" link="" textcolour="FFFFFF" font="Medium"/>
+	
+	<label name="lbl_track"			x="570"			y="305"		w="200"			h="20" text="My Team"	xalign="0" textcolour="FFFFFF" font=""/>
+	<combobox name="cmb_team"		x="570" 		y="325" 	w="200"			h="20" text=""/>
+	
+	<table name="tbl_chat" x="10" y="370" heading="Player" w="140" h="170" ih="20" alpha="0.5" colour="000000" textcolour="FFFFFF" selectcolour="000000" selecttext="FFFFFF" headcolour="FFFFFF" headalpha="0.5" selectalpha="0.5" font="">
+	<tablecolumn heading="Chat" w="350"/>
+	</table>
+	
+	<label name="lbl_chat"			x="10"		y="552"		w="70"		h="20" text="(Esc) Chat"	xalign="2" textcolour="FFFFFF" font=""/>
+	<textfield name="txt_chat" 		x="85" 		y="550" 	w="420" 	h="20" textcolour="000000" font=""/>
+	
+	<label name="lbl_connectedto"	x="520"			y="352"		w="500"		h="20" text="Connected to"	xalign="" textcolour="FFFFFF" font=""/>
+	<table name="tbl_players" x="520" y="370" heading="Player" w="120" h="170" ih="20" alpha="0.5" colour="000000" textcolour="FFFFFF" selectcolour="000000" selecttext="FFFFFF" headcolour="FFFFFF" headalpha="0.5" selectalpha="0.5" font="">
+	<tablecolumn heading="Status" w="95"/>
+	<tablecolumn heading="tla_Points" w="30"/>
+	</table>
+	<button name="btn_kick" 		x="520" 		y="550"	 	w="250" 		h="20" text="Kick" link="" textcolour="FFFFFF" font=""/>
+</panel>

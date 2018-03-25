@@ -1,0 +1,5 @@
+<screen name="screen_options">
+	<panel name="pan_header"/>
+	<panel name="pan_options"/>
+	<panel name="pan_options_nav"/>
+</screen>

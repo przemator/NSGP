@@ -1,0 +1,22 @@
+﻿c/u/Slots Maskine
+
+u/Indsats
+Vælg størrelsen af indsatsen, du ønsker at satse, ved hjælp af drop-down menuen.
+
+u/Spil
+Brug Spil-knappen for at få hjulene til at rotere.
+
+u/Skub
+Et skub får man ved dobbelte frugter. Når et skub er tilgængeligt, kan du skubbe et hjul en position ned. Du kan ikke ændre indsatsen, når du har et skub tilgængeligt. 
+
+c/u/Regler
+
+Spillets mål er at få tre ens frugter. Gevinsten afhænger af hvilke frugter, du får.
+Appelsiner = Indsats x 5
+Blommer = Indsats x 10
+Bananer = Indsats x 15
+Æbler = Indsats x 20
+Grape = Indsats x 25
+Kirsebær = Indsats x 30
+Ananas = Indsats x 40
+Jordbær = Indsats x 50

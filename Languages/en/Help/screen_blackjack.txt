@@ -1,0 +1,17 @@
+﻿c/u/Black Jack Screen
+
+u/Stake
+Set the stake you wish to place in the Stake drop-down menu.
+
+u/Deal
+Use the Deal button to start the game.
+
+u/Hit
+Use the Hit button and draw more cards. 
+
+u/Hold
+When you are happy with your hand click the Hold button. The dealer will then start playing.
+
+c/u/Rules
+
+The aim of the game is to get card values that add up to 21 or as close to 21 as possible without going over it. If you get closer to 21 than the dealer then you win. Aces can be valued at 1 or 11. If you receive an Ace with a Jack, Queen or King then this is called Black Jack and cannot be beaten. The dealer will always hold on 17 or over.
