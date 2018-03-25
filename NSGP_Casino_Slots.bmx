@@ -1,5 +1,6 @@
-' Slot Machine
+' Slot Machine TEST
 Global gameSlotMachine:TSlotMachine = New TSlotMachine
+' TEST TEST
 
 Type TSlotMachine
 	Field slot1:TSlotStrip = New TSlotStrip
