@@ -1,6 +1,5 @@
-' Slot Machine TEST
+' Slot Machine
 Global gameSlotMachine:TSlotMachine = New TSlotMachine
-' TEST TEST
 
 Type TSlotMachine
 	Field slot1:TSlotStrip = New TSlotStrip
@@ -49,15 +48,15 @@ Type TSlotMachine
 		slot2.Update()
 		slot3.Update()
 		
-		If slot1.reelstopped and slot2.reelstopped and slot3.reelstopped
+		If slot1.reelstopped And slot2.reelstopped And slot3.reelstopped
 			If spinning = True 
-				pause = Millisecs()
+				pause = MilliSecs()
 				spinning = False
 				DoPrize()
 				HideCasinoButtons(False)
 			End If
 			
-			If minislots And Millisecs() > pause+1500
+			If minislots And MilliSecs() > pause+1500
 				pan_Casino_Nav.Show()
 				pan_Date.Show()
 				pan_Header.Show()
@@ -93,7 +92,7 @@ Type TSlotMachine
 			Case 9	bet = 50000
 			End Select
 			
-			If not CasinoBet(bet) Then Return
+			If Not CasinoBet(bet) Then Return
 			HideCasinoButtons()
 		EndIf
 		
@@ -112,7 +111,7 @@ Type TSlotMachine
 	
 	Method DoPrize()
 		If minislots
-			If slot1.fruit = slot2.fruit and slot2.fruit = slot3.fruit
+			If slot1.fruit = slot2.fruit And slot2.fruit = slot3.fruit
 		'		TScreenMessage.Create("+10", 10, CFONT_LARGE, slot2.xPos+gOffSetX+40, screenH/2, 0, True)
 		'		UpdateRelationship(minislots, 10, False, True)
 				Return
@@ -138,7 +137,7 @@ Type TSlotMachine
 		
 		' Can't gain new nudges from nudging
 		If nudging = False
-			If slot1.fruit = slot2.fruit and slot2.fruit <> slot3.fruit	Then hiddennudges:+1		' 1 and 2
+			If slot1.fruit = slot2.fruit And slot2.fruit <> slot3.fruit	Then hiddennudges:+1		' 1 and 2
 			If slot1.fruit <> slot2.fruit And slot2.fruit = slot3.fruit	Then hiddennudges:+1		' 2 and 3
 			If slot1.fruit <> slot2.fruit And slot1.fruit = slot3.fruit	Then hiddennudges:+1		' 1 and 3
 		Else
@@ -146,7 +145,7 @@ Type TSlotMachine
 			nudging = False
 		EndIf
 		
-		If slot1.fruit = slot2.fruit and slot2.fruit = slot3.fruit
+		If slot1.fruit = slot2.fruit And slot2.fruit = slot3.fruit
 			Local prize:Int
 			Local bet:Int = GetBetTotal()
 			
@@ -303,7 +302,7 @@ Type TSlotStrip
 					'TScreenMessage.Create(str, 10, CFONT_LARGE, xPos+(fruitH/2), screenH/2, 0, True)
 					
 					If fruitCount = 6 
-						fruit = fruit mod 3
+						fruit = fruit Mod 3
 						AppLog "Fruit: "+fruit
 					Else
 						AppLog str
@@ -331,7 +330,7 @@ Type TSlotStrip
 	End Method
 	
 	Method Spin(s:Int)
-		spintime = Millisecs()
+		spintime = MilliSecs()
 		
 		Select s
 		Case 1	yVel = Rnd(22, 24); spinlength = 1500+Rand(250)

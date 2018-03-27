@@ -34,7 +34,7 @@ Function UpdateOrigin()
 		originy = -cary+(screenH/2)
 	End Select
 	
-	If track.editing = True or gLimitScroll
+	If track.editing = True Or gLimitScroll
 		If originx > 0 Then originx = 0
 		If originx < -(track.trackw*track.tilesize)+screenW Then originx = -(track.trackw*track.tilesize)+screenW
 	
