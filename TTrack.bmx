@@ -2066,12 +2066,14 @@ Type TTileSet
 		Local tpp:Int = (screenH/64)-1 
 		tilesperpage = tpp
 		
-		Local dir:Int = ReadDir(gApploc+url)
+		Local tile_files:String[] = LoadDir(gApploc+url)
+		Local filename:String
 		Local id:Int = 0
 		Local y:Int = 64
+
+		tile_files.sort()
 		
-		Repeat
-			Local filename$=NextFile( dir )
+		For filename:String = EachIn tile_files
 			
 			If Right(filename,4) = ".png" And filename.Contains("Pat") = False And filename.Contains("Mini") = False 
 				' Create new tile
@@ -2103,10 +2105,8 @@ Type TTileSet
 				y:+64
 				If (id Mod tilesperpage) = 0 Then y = 64
 			EndIf
-			If filename = "" Then Exit
-		Forever
+		Next
 		
-		CloseDir dir
 	End Function
 	
 	Method Update(level:Int)			

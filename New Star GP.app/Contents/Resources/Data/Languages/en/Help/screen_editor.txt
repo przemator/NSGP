@@ -1,0 +1,68 @@
+﻿c/u/Editing Instructions
+
+
+Please edit tracks in the order of instructions below and don't forget to save often. Use the existing tracks as a guide for how to create a good track.
+
+Press Escape to switch between the main view and the editing options.
+
+u/Track Tiles
+
+Start with the  Track Tiles mode and create the track. Check the onscreen instructions for rotating, placing and deleting tiles.
+ 
+Use Load Map to display the real life track map, then lay the track tiles over that. The maps are named TrackIm_1.png through to TrackIm_17.png and can be found in Media/Tracks.
+
+u/Pit Lane
+
+You will need to make sure the pit lane is always on a vertical or horizontal straight. There are pit bay and starting grid tiles for up to 22 cars. Only use the pit bay tiles A-J and grid tiles 1-20.
+
+u/Racing Line
+
+Once you have a track you can draw the racing line. The first point should be 1 square ahead of the start/finish line and the last point should be just before the start/finish line. 
+
+Generally stay down the centre of the track and use 2 or 3 points around bends.
+
+u/Pit Lane
+
+Similar to the racing line, you must draw a pit line. Start this close to the racing line by the pit entrance and finish it back on the racing line by the pit exit. Keep regular waypoints along the pit lane, 2 per square.
+
+u/Test Track
+
+Now you can test the track! First save it, then reload it (this will place the cars on the grid.) Press D to Drive. Switch back to edit mode with D or Escape.
+
+u/Gravel Traps
+
+Once the track is laid down it's a good idea to put in the gravel traps. These can be drawn from the Objects mode.
+
+u/Objects - Walls
+
+The wall images don't actually stop the cars. These are just graphics. The collisions are dealt with but the Wall Lines (below).
+
+Use the Wall images to place a wall around the track tiles. The track should be completely sealed by walls. You can usually cover glithces in the wall (gaps where the wall doesn't join up) with trees.
+
+u/Wall Lines
+
+With the wall image in place it's time to draw the actual line that will stop the cars from going off the track. These should follow the wall image you have already drawn and should seal the track completely. 
+
+You will need 3 walls. One for the outside of the track, one for the inside of the track and one to seperate the pitlane from the starting grid.
+
+Make sure the first point and the last point of the wall intersects so that there are no gaps (this doesn't apply to the pitlane wall).
+
+Hold the left SHIFT button to start a new wall.
+
+u/Check Points
+
+Check points make sure that the cars have completed a full lap. Generally place a check point across every bend and across every strait. Most tracks have around 30 check points in total.
+
+All check points must span from the outside wall to the inside wall (make sure they cross well over the wall if you can).
+
+The first check point must be on the start/finish line exactly (and should stretch across the pit lane to the inside wall.
+
+The last check point should occur just before the pit entrance.
+
+u/Objects
+
+Finally you can place the rest of the trackside objects. 
+u/Racing
+
+Races may crash if you don't have all the track set up correctly. Make sure the racing line, check points and so on are all configured.
+

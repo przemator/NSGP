@@ -1,0 +1,5 @@
+﻿c/u/Schermata Team
+
+I dettagli dei team e dei piloti possono essere trovati qua. Usa i pulsanti navigazione per cambiare i team.
+
+btn_TeamProfile_EditTeam/Puoi modificare i nomi del team, del principale e dei piloti.

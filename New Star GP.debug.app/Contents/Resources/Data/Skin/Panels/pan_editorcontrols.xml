@@ -1,0 +1,10 @@
+<panel name="pan_editorcontrols"	x="630" y="10" 	w="120" 	h="260" colour="" alpha="0.75">
+	<label name="lbl_title"		x="10" y="10" 	w="100" h="30" textcolour="FFFFFF" text="Edit Mode" xalign="1" yalign="" font=""/>
+	<button name="btn_base" 	x="10" y="40"	w="100" h="20" text="Ground Tiles" link="" textcolour="FFFFFF" font="Default"/>
+	<button name="btn_track"	x="10" y="70"	w="100" h="20" text="Track Tiles" link="" textcolour="FFFFFF" font="Default"/>
+	<button name="btn_objects"	x="10" y="100"	w="100" h="20" text="Objects" link="" textcolour="FFFFFF" font="Default"/>
+	<button name="btn_checkp"	x="10" y="130"	w="100" h="20" text="Check Points" link="" textcolour="FFFFFF" font="Default"/>
+	<button name="btn_racing"	x="10" y="160"	w="100" h="20" text="Racing Line" link="" textcolour="FFFFFF" font="Default"/>
+	<button name="btn_pit"		x="10" y="190"	w="100" h="20" text="Pit Lane" link="" textcolour="FFFFFF" font="Default"/>
+	<button name="btn_walls"	x="10" y="220"	w="100" h="20" text="Walls" link="" textcolour="FFFFFF" font="Default"/>
+</panel>

@@ -1,0 +1,68 @@
+﻿c/u/Instrucciones de edición
+
+
+Para editar circuitos sigue las instrucciones en el orden siguiente y no olvides guardar a menudo. Usa los circuitos existentes como guía para crear buenos circuitos.
+
+Presiona escape para cambiar entre la pantalla principal y las opciones de edición.
+
+u/Bloques de circuito
+
+Comienza en el modo bloques de circuito y crea la pista. Mira las instrucciones en pantalla para rotar, colocar y borrar bloques.
+ 
+Usa cargar mapa para mostrar el mapa del circuito real, entonces coloca los bloques de circuito sobre el. Los mapas están nombrados TrackIm_1.png hasta TrackIm_17.png y pueden ser encontrados en Media/Tracks.
+
+u/Calle de boxes
+
+Debes asegurarte que la calle de boxes se ubique siempre en una recta horizontal o vertical. Hay bloques de boxes y de parrilla de salida hasta para 22 autos. Solo usa los bloques de boxes A-J y de parilla 1-20.
+
+u/Linea de carrera
+
+Una vez que tengas un circuito puedes dibujar la linea de carrera. El primer punto debe estar 1 cuadrado por delante de la linea de salida/llegada y el último punto debe estar justo antes de la linea de salida/llegada. 
+
+Generalmente mantente en el centro de la pista y usa 2 o 3 puntos en las curvas.
+
+u/Calle de boxes
+
+De manera similar a la linea de carrera, debes dibujar la calle de boxes. Comienza cerca de la linea de carrera en la entrada a boxes y termínala en la linea de carrera a la salida de boxes. Manten puntos regulares en la calle de boxes, 2 por cuadrado.
+
+u/Prueba el circuito
+
+¡Ahora puedes probar el circuito! Primero guardalo, luego vuelve a cargarlo (esto colocara los coches en la parrilla.) Presiona D para conducir. Cambia al modo edición con D o escape.
+
+u/Trampas de grava
+
+Una vez que el circuito está diseñado, es buena idea colocar las trampas de grava. Se pueden colocar en el modo objetos.
+
+u/Objetos - Paredes
+
+Las paredes no detienen el auto. Son solo gráficos. Las colisiones se determinan con las líneas de pared (debajo).
+
+Usa paredes para colocar una pared alrededor de los bloques de circuito. El circuito debe estar completamente sellado por paredes. Puedes cubrir imperfectos en las paredes (espacios en donde la pared no se une) con árboles.
+
+u/Líneas de pared
+
+Con las paredes en su lugar es tiempo de dibujar la linea que impedirá a los autos salir del circuito. Estas deben seguir las paredes que ya has colocado y deben sellar la pista completamente. 
+
+Necesitarás 3 paredes. Una para el exterior del circuito, una para el interior y otra que separe la grilla de partida de la calle de boxes.
+
+Asegúrate que el primer y el último punto de la línea de pared se toquen así no quedan espacios (esto no se aplica a la pared de la calle de boxes).
+
+Mantén presionado SHIFT izquierdo para comenzar una nueva pared.
+
+u/Puntos de control
+
+Los puntos de control aseguran que un auto alla completado una vuelta completa. Generalmente coloca un punto de control a travez de cada curva y en cada recta. La mayor parte de los circuitos tienen alrededor de 30 puntos de control en total.
+
+Todos los puntos de control deben abarcar desde la pared externa a la pared interna (asegurate que cruzen sobre la pared si es posible).
+
+El primer punto de control debe estar exactamente en la línea de salida/llegada (y debe extenderse a travéz de la calle de boxes hasta la pared interna).
+
+El último punto de control debe ubicarse justo antes de la entrada de boxes.
+
+u/Obhetos
+
+Finalmente puedes colocar el resto de los objetos a los lados del circuito. 
+u/Carrera
+
+Las carreras pueden producir errores si no has editado correctamente el circuito. Asegurate que la linea de carrera, puntos de control y demás estén configurados.
+

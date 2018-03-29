@@ -1,0 +1,26 @@
+﻿c/u/Novo Jogador
+
+Quando for começar uma nova carreira, você deve inserir os detalhes de seu piloto e escolher uma equipe.
+
+c/u/Equipes
+
+Os carros de cada equipe tem características específicas.
+
+u/Manuseio
+Determina quão bem o carro responde à direção.
+
+u/Aceleração
+Determina quão rápido um carro atinge sua velocidade máxima.
+
+u/Velocidade
+Determina a velocidade máxima do carro.
+
+Nível de combustível, dano e desgaste do pneu afetam os atributos do carro durante a corrida.
+
+Uma vez que você tenha escolhido uma equipe você precisará escolher qual piloto quer substituir. Pilotos podem reaparecer em outras equipes em temporadas futuras.
+
+c/u/Salvar Arquivo
+
+Escolha um nome para salvar seu arquivo. Arquivos salvos são armazenados na pasta My Documents/New Star Grand Prix.
+
+Você pode começar quantas carreiras quiser usando o mesmo nome para o piloto. Basta usar nomes diferentes para o arquivo.

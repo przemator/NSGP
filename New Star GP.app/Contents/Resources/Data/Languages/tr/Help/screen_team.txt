@@ -1,0 +1,5 @@
+﻿c/u/Takim Ekrani
+
+Tüm takimlarin ve sürücülerin detaylari bu ekranda bulunabilir. Gezinti dügmelerini kullanarak takimlar arasinda geçis yapabilirsiniz.
+
+btn_TeamProfile_EditTeam/Takimi, baskani ya da sürücü isimlerini degistirebilirsiniz.

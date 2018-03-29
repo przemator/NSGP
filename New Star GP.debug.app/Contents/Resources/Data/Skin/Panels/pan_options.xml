@@ -1,0 +1,65 @@
+<panel name="pan_options" x="10" y="70" w="780" h="460" colour="" alpha="0.75">
+
+	<label name="lbl_title1"		x="10"		y="10"		w="380"			h="30" text="Race"	xalign="1" textcolour="FFFFFF" font="Large"/>
+	<label name="lbl_tlaps"			x="10" 		y="50" 		w="130" 		h="20" textcolour="FFFFFF" text="Laps" xalign="2" font=""/>
+	<slider name="sld_laps"			x="150" 	y="50"		length="150"	h="20"	align="1"/>
+	<label name="lbl_lap" 			x="310" 	y="50" 		w="80" 			h="20" textcolour="FFFFFF" text="10"/>
+	
+	<label name="lbl_tview" 		x="10" 		y="80" 		w="130" 		h="20" textcolour="FFFFFF" text="View Height" xalign="2" font=""/>
+	<slider name="sld_view"			x="150" 	y="80"		length="150"	h="20"	align="1"/>
+	<label name="lbl_view" 			x="310" 	y="80" 		w="80" 			h="20" textcolour="FFFFFF" text="Low"/>
+	
+	<checkbox name="chk_radio" 		x="100" 	y="120" 	w="120" 		h="20" textcolour="FFFFFF" text="Pit Radio"/>
+	<checkbox name="chk_map" 		x="100" 	y="150" 	w="120" 		h="20" textcolour="FFFFFF" text="Map"/>
+	<checkbox name="chk_fuel" 		x="100" 	y="180" 	w="120" 		h="20" textcolour="FFFFFF" text="Fuel"/>
+	<checkbox name="chk_kers" 		x="100" 	y="210" 	w="120" 		h="20" textcolour="FFFFFF" text="KERS"/>
+	<checkbox name="chk_damage" 	x="220" 	y="120" 	w="120" 		h="20" textcolour="FFFFFF" text="Damage"/>
+	<checkbox name="chk_tyres" 		x="220" 	y="150" 	w="120" 		h="20" textcolour="FFFFFF" text="Tyre Wear"/>
+	<checkbox name="chk_speedo" 	x="220" 	y="180" 	w="120" 		h="20" textcolour="FFFFFF" text="Speedometer"/>
+	
+	<label name="lbl_title2" 		x="10"		y="245"		w="380"			h="30" text="Difficulty"	xalign="1" textcolour="FFFFFF" font="Large"/>
+	<button name="btn_easy"			x="10" 		y="285" 	w="85"			h="40" text="Easy" font="Medium"/>
+	<button name="btn_normal"		x="105" 	y="285" 	w="85"			h="40" text="Normal" font="Medium"/>
+	<button name="btn_hard"			x="200" 	y="285" 	w="85"			h="40" text="Hard" font="Medium"/>
+	<button name="btn_extreme"		x="295" 	y="285" 	w="85"			h="40" text="difficulty_Extreme" font="Medium"/>
+	
+	<label name="lbl_title3" 		x="10"		y="365"		w="380"			h="30" text="Screen"	xalign="1" textcolour="FFFFFF" font="Large"/>
+	<checkbox name="chk_fullscreen" x="150" 	y="405" 	w="120" 		h="20" textcolour="FFFFFF" text="Full Screen"/>
+	
+	<label name="lbl_title4"		x="390" 	y="10"		w="380" 		h="30" 	text="Sound" xalign="1" link="" textcolour="FFFFFF" font="Large"/>
+	<label name="lbl_tvolumefx"		x="390"		y="50"		w="130"			h="20" 	text="Sound FX" xalign="2" link="" textcolour="FFFFFF" font="Default"/>
+	<slider name="sld_volumefx"		x="530" 	y="50"		length="150"	h="20"	align="1"/>
+	<label name="lbl_volumefx" 		x="690" 	y="50" 		w="80" 			h="20" textcolour="FFFFFF" text="100%"/>
+	
+	<label name="lbl_tvolumemusic"	x="390"		y="80"		w="130"			h="20" 	text="Music" xalign="2" link="" textcolour="FFFFFF" font="Default"/>
+	<slider name="sld_volumemusic"	x="530" 	y="80"		length="150"	h="20"	align="1"/>
+	<label name="lbl_volumemusic" 	x="690" 	y="80" 		w="80" 			h="20" textcolour="FFFFFF" text="100%"/>
+	
+	<label name="lbl_title5" 		x="390"		y="120"		w="380"			h="30" text="Controls"	xalign="1" textcolour="FFFFFF" font="Large"/>
+	<label name="lbl_left" 			x="395" 	y="165" 	w="80" 			h="28" textcolour="FFFFFF" text="Left" xalign="2" yalign="1" font=""/>
+	<button name="btn_left"			x="480" 	y="165" 	w="100"			h="28" text="key_CursorLeft" yalign="1" font=""/>
+	<label name="lbl_up"	 		x="575" 	y="165" 	w="70" 			h="28" textcolour="FFFFFF" text="Accelerate" xalign="2" yalign="1" font=""/>
+	<button name="btn_up"			x="650" 	y="165" 	w="100"			h="28" text="key_CursorUp" yalign="1" font=""/>
+	
+	<label name="lbl_right" 		x="395" 	y="195" 	w="80" 			h="28" textcolour="FFFFFF" text="Right" xalign="2" yalign="1" font=""/>
+	<button name="btn_right"		x="480" 	y="195" 	w="100"			h="28" text="key_CursorRight" yalign="1" font=""/>
+	<label name="lbl_down"	 		x="575" 	y="195" 	w="70" 			h="28" textcolour="FFFFFF" text="Brake" xalign="2" yalign="1" font=""/>
+	<button name="btn_down"			x="650" 	y="195" 	w="100"			h="28" text="key_CursorDown" yalign="1" font=""/>
+	
+	<label name="lbl_kers" 			x="395" 	y="225" 	w="80" 			h="28" textcolour="FFFFFF" text="Boost" xalign="2" yalign="1" font=""/>
+	<button name="btn_kers"			x="480" 	y="225" 	w="100"			h="28" text="key_ShiftLeft" yalign="1" font=""/>
+	<label name="lbl_info"	 		x="575" 	y="225" 	w="70" 			h="28" textcolour="FFFFFF" text="Show Info" xalign="2" yalign="1" font=""/>
+	<button name="btn_info"			x="650" 	y="225" 	w="100"			h="28" text="key_Space" yalign="1" font=""/>
+	
+	<label name="lbl_pause" 		x="395" 	y="255" 	w="80" 			h="28" textcolour="FFFFFF" text="Pause Game" xalign="2" yalign="1" font=""/>
+	<button name="btn_pause"		x="480" 	y="255" 	w="100"			h="28" text="key_Escape" yalign="1" font=""/>
+	
+	<label name="lbl_title6" 		x="390"		y="295"		w="380"			h="30" text="Registration"	xalign="1" textcolour="FFFFFF" font="Large"/>
+	<label name="lbl_lname" 		x="390" 	y="335" 	w="80" 			h="20" textcolour="FFFFFF" text="Name" xalign="2" font=""/>
+	<label name="lbl_lstatus"		x="390" 	y="365" 	w="80" 			h="20" textcolour="FFFFFF" text="Status" xalign="2" font=""/>
+	<label name="lbl_name" 			x="490" 	y="330" 	w="280"			h="20" textcolour="FFFFFF" text="Name" xalign="" font="Medium"/>
+	<label name="lbl_status"		x="490" 	y="360" 	w="280"			h="20" textcolour="FFFFFF" text="Status" xalign="" font="Medium"/>
+	
+	<button name="btn_reg"			x="430" 	y="395" 	w="300"			h="40" text="Buy Now" font="Medium"/>
+	
+</panel>

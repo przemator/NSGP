@@ -1,4 +1,4 @@
-﻿ ' ----------------------------------
+ ' ----------------------------------
 ' Start Screen
 ' ----------------------------------
 Global pan_ExitGame:fry_TPanel = fry_TPanel(fry_GetGadget("pan_exitgame"))
@@ -19,7 +19,7 @@ Global tbl_LoadGame:fry_TTable = fry_TTable(fry_GetGadget("pan_loadgame/tbl_load
 Global btn_LoadGame_Load:fry_TButton = fry_TButton(fry_GetGadget("pan_loadgame/btn_loadgame"))
 Global btn_LoadGame_Delete:fry_TButton = fry_TButton(fry_GetGadget("pan_loadgame/btn_delgame"))
 
-Global gLoadedReplay:Int = false
+Global gLoadedReplay:Int = False
 Global pan_LoadReplay:fry_TPanel = fry_TPanel(fry_GetGadget("pan_loadreplay"))
 Global tbl_LoadReplay:fry_TTable = fry_TTable(fry_GetGadget("pan_loadreplay/tbl_load"))
 Global btn_LoadReplay_Load:fry_TButton = fry_TButton(fry_GetGadget("pan_loadreplay/btn_loadreplay"))
@@ -616,7 +616,7 @@ Function NewPlayer_Proceed()
 	If name = "Alberto Ascari" Then DoMessage("CMESSAGE_INVALIDNAME"); Return
 	If name = "Tazio Nuvolari" Then DoMessage("CMESSAGE_INVALIDNAME"); Return
 	If name = "Damon Hill" Then DoMessage("CMESSAGE_INVALIDNAME"); Return
-	If name = "Mika Häkkinen" Then DoMessage("CMESSAGE_INVALIDNAME"); Return
+	If name = "Mika H�kkinen" Then DoMessage("CMESSAGE_INVALIDNAME"); Return
 	If name = "Mika Hakkinen" Then DoMessage("CMESSAGE_INVALIDNAME"); Return
 	If name = "Mario Andretti" Then DoMessage("CMESSAGE_INVALIDNAME"); Return
 	If name = "Jack Brabham" Then DoMessage("CMESSAGE_INVALIDNAME"); Return

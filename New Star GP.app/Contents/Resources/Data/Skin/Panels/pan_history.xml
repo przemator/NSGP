@@ -1,0 +1,10 @@
+<panel name="pan_history"	x="10" 		y="260" 	w="380" 	h="270" colour="" alpha="0.75">
+	<label name="lbl_history"			x="10" 		y="5" 		w="360" 	h="30" textcolour="FFFFFF" text="History" xalign="1" yalign="0" font="Large"/>
+	
+	<table name="tbl_history" 		x="10" 		y="40" 	heading="tla_Position" 	w="30" h="220" ih="18" alpha="0.5" colour="000000" textcolour="FFFFFF" selectcolour="FFFF00" selecttext="000000" headcolour="333333" headalpha="0.5" selectalpha="0.5" font="">
+		<tablecolumn heading="Driver" w="125"/>
+		<tablecolumn heading="Team" w="80"/>
+		<tablecolumn heading="Time" w="80"/>
+		<tablecolumn heading="tla_Points" w="33"/>
+	</table>
+</panel>

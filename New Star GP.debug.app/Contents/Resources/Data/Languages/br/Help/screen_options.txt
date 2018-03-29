@@ -1,0 +1,52 @@
+﻿c/u/Opções
+
+Aqui você pode ajustar suas preferências para o jogo. Você também pode registrar o jogo caso tenha comprado uma licença.
+
+c/u/Corrida
+
+u/Voltas
+Quantas voltas irá durar a corrida.
+
+u/Altura da Visão
+Mude a câmera de alta para baixa.
+
+u/Rádio do Pit
+O tempo de sua volta é reportado a você quando você a termina. Você também é avisado quando o nível de combustível está baixo. Você pode desligar o rádio com esta opção.
+
+u/Mapa
+O mapa mostrar a pista e a posição de cada carro nela. Ligue-a ou desligue-a aqui.
+
+u/Combustível
+Combustível afeta o peso e a velocidade de seu carro. Você pode desligá-lo se não quiser se preocupar com reabastecimento.
+
+u/Dano
+Conforme os carros são danificados, eles ficam mais lentos. Você pode desligar o dano aqui.
+
+u/Desgaste dos pneus
+Conforme os pneus são desgastados, seu carro perde aderência nas curvas. Desligue esta opção aqui.
+
+c/u/Dificuldade
+
+A dificuldade afeta a velocidade dos carros controlados pelo computador. No modo fácil eles serão mais lentos e cometerão mais erros. Danos ao carro tem um peso maior nos níveis mais difíceis.
+
+O nível de dificuldade afetará seus relacionamentos, tornando mais fácil ou mais difícil impressionar o chefe, os engenheiros os fãs e os amigos. 
+
+c/u/Tela
+
+Altre entre o modo janela e o modo tela cheia.
+
+c/u/Som
+
+Ajuste o volume dos efeitos sonoros e da música.
+
+c/u/Controles
+
+Para alterar os controles de corrida, basta clicar no botão que se quer alterar e apertar a tecla ou botão de joystick que se quer usar. Mostrar Info é usado para exibir informações sobre os pilotos durante a corrida.e drivers during a race.
+
+c/u/Registro
+
+A versão de testes do New Star Grand Prix só permite que vocÊ corra nas três primeiras corridas de sua carreira. Compre uma licença em www.newstargames.com se você quer destravar a versão completa e jogar até 10 temporadas em sua carreira. Uma vez registrado, você pode começar quantas carreiras que quiser, contanto que use o mesmo nome para o piloto que foi registrado.
+
+btn_Options_Cancel/Cancela quaiser alterações que tenham sido feitas.
+
+btn_Options_Proceed/Quando estiver satisfeito com suas opções, clique neste botão para confirmar as alterações.

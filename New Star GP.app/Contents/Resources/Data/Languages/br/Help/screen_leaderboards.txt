@@ -1,0 +1,12 @@
+﻿c/u/Tela da Pista
+
+u/Painel da Pista
+Use os botões de navegação para conferir detalhes de todas as corridas no grand prix.
+
+u/Painél de História
+Todos os resultados são gravados e podem ser vistos aqui.
+
+u/Tabela Online
+A tabela online permite que você compare suas voltas com outro pilotos de New Star Grand Prix de todo o mundo.
+
+Para enviar seu melhor tempo para a pista exibida basta clicar no botão Enviar.

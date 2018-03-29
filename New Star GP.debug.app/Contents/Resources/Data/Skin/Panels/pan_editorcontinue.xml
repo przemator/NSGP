@@ -1,0 +1,3 @@
+<panel name="pan_editorcontinue" x="590" y="520" w="200" h="70" colour="" alpha="0.75">
+	<button name="btn_continue" x="10" y="10" w="180" h="50" text="Continue" link="" textcolour="FFFFFF" font="Large"/>
+</panel>

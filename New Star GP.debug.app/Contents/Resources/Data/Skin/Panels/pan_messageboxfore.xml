@@ -1,0 +1,6 @@
+<panel name="pan_messageboxfore" x="200" y="100" w="500" h="200" colour="" alpha="1.0">
+	<label name="lbl_description" 	x="10"		y="10" 		w="480" 	h="140" textcolour="FFFFFF" text="" xalign="1" yalign="1" font="Medium"/>
+	<textfield name="txt_field" 	x="100" 	y="130" 	w="300" 	h="20" textcolour="000000"/>
+	<button name="btn_yes" 		x="10"		y="160" 	w="235" 	h="30" 	text="Yes" link="" textcolour="000000" font="Medium"/>
+	<button name="btn_no" 		x="255"		y="160" 	w="235" 	h="30" 	text="No" link="" textcolour="000000" font="Medium"/>
+</panel>

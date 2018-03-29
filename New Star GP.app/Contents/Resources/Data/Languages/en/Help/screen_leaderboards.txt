@@ -1,0 +1,12 @@
+﻿c/u/Track Screen
+
+u/Track Panel
+Use the navigation buttons to check out the track details for all the races in the grand prix.
+
+u/History Panel
+All the results are recorded and can be viewed here.
+
+u/Online Leaderboard
+The online leaderboard allows you to compare your lap times with the New Star Grand Prix drivers around the world.
+
+To upload your best time for the track displayed simply click the upload button.

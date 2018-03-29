@@ -1,0 +1,7 @@
+<panel name="pan_racepaused" x="200" y="175" w="400" h="250">
+	<label name="lbl_title" 		x="10" 	y="10"		w="380" 	h="30" 	text="Paused" xalign="1" font="Large"/>
+	<button name="btn_quit" 		x="10"	y="50" 		w="380" 	h="40" 	text="Quit"			font="Large"/>
+	<button name="btn_options" 		x="10"	y="100"		w="380" 	h="40" 	text="Options"		font="Large"/>
+	<button name="btn_replay" 		x="10"	y="150" 	w="380" 	h="40" 	text="Replay" 		font="Large"/>
+	<button name="btn_continue" 	x="10"	y="200" 	w="380" 	h="40" 	text="Continue"		font="Large"/>
+</panel>

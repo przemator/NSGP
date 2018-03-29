@@ -1,0 +1,14 @@
+<panel name="pan_leaderboard"	x="405"	y="70" 	w="390" 	h="300" colour="" alpha="0.75">
+	<label name="lbl_name"			x="10" 		y="5" 		w="370" 	h="30" textcolour="FFFFFF" text="Online Leaderboard" xalign="1" yalign="0" font="Large"/>
+	
+	<table name="tbl_leaderboard" 		x="10" 		y="40" 	heading="tla_Position" 	w="26" h="200" ih="18" alpha="0.5" colour="000000" textcolour="FFFFFF" selectcolour="FFFF00" selecttext="000000" headcolour="333333" headalpha="0.5" selectalpha="0.5" font="">
+		<tablecolumn heading="Driver" w="128"/>
+		<tablecolumn heading="Team" w="72"/>
+		<tablecolumn heading="Handling" w="22"/>
+		<tablecolumn heading="Acceleration" w="22"/>
+		<tablecolumn heading="TopSpeed" w="22"/>
+		<tablecolumn heading="Lap Time" w="60"/>
+	</table>
+	
+	<button name="btn_refresh"		x="10" 	y="250"		w="370"		h="40"	yalign="1"	text="Refresh" font="Large"/>
+</panel>

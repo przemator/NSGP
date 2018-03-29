@@ -1,0 +1,52 @@
+c/u/Opzioni
+
+Puoi settare le tue preferenze per il gioco. Puoi anche registrare il gioco se hai acquistato una licenza.
+
+c/u/Gara
+
+u/Giri
+Il numero di giri da percorrere in gara.
+
+u/Visualizza Altezza
+Setta l'altezza della camera in pista.
+
+u/Pit Radio
+Il tuo tempo sul giro ti viene riportato. Vieni anche avvisato quando il livello di benzina è basso. Puoi spegnere la radio con questa opzione.
+
+u/Mappa
+La mappa mostra il circuito e la posizione di ogni monoposto. Attivala o disattivala qui.
+
+u/Benzina
+La benzina influisce sulle prestazioni della monoposto. Puoi disattivare la benzina se non vuoi effettuare rifornimenti.
+
+u/Danni
+Quando si danneggiano le monoposto corrono più lentamente. Puoi disattivare i danni qui.
+
+u/Consumo Pneumatici
+Quando i pneumatici si consumano la monoposto perderà grip. Attiva o disattiva il consuma qui.
+
+c/u/Difficoltà
+
+La difficoltà influirà sulla massima velocità delle monoposto rivali. A livello facile i piloti avversari saranno molto lenti e commetteranno più errori. I danni saranno maggiori con gradi di difficoltà più alti.
+
+La difficoltà influirà sulla facilità di impressionare il Boss, i meccanici, i tifosi e gli amici.
+
+c/u/Schermo
+
+Scegli tra modalità a schermo interno e modalità a finestra.
+
+c/u/Suono
+
+Setta il volume e gli effetti musicali da qui.
+
+c/u/Controlli
+
+Per cambiare i controlli basta cliccare sul pulsante che si vuole modificare e cliccare il pulsante desiderato per quell'azione. Il controllo Mostra Info serve per visualizzare le informazioni sui piloti e sulla monoposto.
+
+c/u/Registrazione
+
+La versione a tempo di New Star Grand Prix permette di effettuare solo i primi 3 gran premi della stagione. Acquista una licenza da www.newstargames.com se vuoi sbloccare la versione completa e giocare 10 anni per ogni carriera. Una volta registrato, potrai giocare infinite carriere sempre usando il nome con cui ti sei registrato.
+
+btn_Options_Cancel/Cancella qualsiasi cambiamento alle opzioni.
+
+btn_Options_Proceed/Quando sei soddisfatto dei settaggi clicca su questo pulsante per confermare.

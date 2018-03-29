@@ -1,0 +1,8 @@
+﻿<screen name="screen_slots">
+	<panel name="pan_header"/>
+	<panel name="pan_slotmachinecontrols"/>
+	<panel name="pan_slotmachinenudges"/>
+	<panel name="pan_slotmachinenudgecount"/>
+	<panel name="pan_casinonav"/>
+	<panel name="pan_date"/>
+</screen>

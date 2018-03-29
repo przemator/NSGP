@@ -1,0 +1,10 @@
+﻿c/u/Finanzas
+
+u/Finanzas
+Este panel lleva un registro del dinero ganado, gastado y perdido.
+
+u/Vehículos
+Puedes comprar autos de calle aqui. Ya en tu poder puedes conducirlo en el circuito de pruebas. ¡Si quieres aumentar la relacion con tus amigos puedes comprarles un auto!
+
+u/Propiedades
+Poseer propiedades demostrara quien es el pìloto mejor pago en los grandes premios. Comprar propiedades para tus amigos aumentará significativamente tus relaciones.

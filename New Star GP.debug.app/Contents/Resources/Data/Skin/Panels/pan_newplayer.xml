@@ -1,0 +1,32 @@
+<panel name="pan_newplayer" x="200" y="70" w="400" h="460" colour="" alpha="0.75">
+	<label name="lbl_title"			x="10"		y="5"		w="380"		h="30" text="New Player"	xalign="1" yalign="1" textcolour="FFFFFF" font="Large"/>
+	
+	<label name="lbl_name" 		x="10" 		y="50" 		w="150" 	h="20" textcolour="FFFFFF" text="Name" xalign="2" font=""/>
+	<textfield name="txt_name" 	x="170" 	y="50" 		w="200" 	h="20" textcolour="000000"/>
+	
+	<label name="lbl_dob" 			x="10" 		y="82" 	w="150" 	h="20" textcolour="FFFFFF" text="Date Of Birth" xalign="2" font=""/>
+	<combobox name="cmb_dobday"		x="170" 	y="80" 	w="70"		h="20" text="Day"/>
+	<combobox name="cmb_dobmonth"	x="250" 	y="80" 	w="120"		h="20" text="Month"/>
+	
+	<label name="lbl_birthplace" 	x="10" 		y="112" 	w="150" 	h="20" textcolour="FFFFFF" text="Place Of Birth" xalign="2" font=""/>
+	<textfield name="txt_birthplace" x="170" 	y="110" 	w="200" 	h="20" textcolour="000000"/>
+	
+	<label name="lbl_nationality" 		x="10" 	y="142" 	w="150" 	h="20" textcolour="FFFFFF" text="Nationality" xalign="2" font=""/>
+	<combobox name="cmb_nationality"	x="170" y="140" 	w="200"		h="20" text="Choose Nationality"/>
+	
+	<label name="lbl_title2" 		x="10"		y="180"		w="380"		h="30" text="Team"	xalign="1" yalign="1" textcolour="FFFFFF" font="Large"/>
+
+	<label name="lbl_handling" 		x="200" 	y="230" 	w="75" 	h="20" textcolour="FFFFFF" text="Handling" xalign="2"/>
+	<label name="lbl_accel" 		x="200" 	y="250" 	w="75" 	h="20" textcolour="FFFFFF" text="Acceleration" xalign="2"/>
+	<label name="lbl_speed" 		x="200" 	y="270" 	w="75" 	h="20" textcolour="FFFFFF" text="Speed" xalign="2"/>
+
+	<label name="lbl_team" 			x="10" 		y="312" 	w="150" 	h="20" textcolour="FFFFFF" text="Team" xalign="2" font=""/>	
+	<combobox name="cmb_team"		x="170" 	y="310" 	w="200"		h="20" text="Choose Team"/>
+	<label name="lbl_team" 			x="10" 		y="342" 	w="150" 	h="20" textcolour="FFFFFF" text="Replace Driver" xalign="2" font=""/>
+	<combobox name="cmb_driver"		x="170" 	y="340" 	w="200"		h="20" text="Choose Driver"/>
+	
+	<label name="lbl_title3"		x="10"		y="375"		w="380"		h="30" text="Save File"	xalign="1" yalign="1" textcolour="FFFFFF" font="Large"/>
+	<label name="lbl_savename" 		x="10" 		y="417" 	w="150" 	h="20" textcolour="FFFFFF" text="Save Name" xalign="2" font=""/>
+	<textfield name="txt_savename" 	x="170" 	y="415" 	w="200" 	h="20" textcolour="000000"/>
+	
+</panel>

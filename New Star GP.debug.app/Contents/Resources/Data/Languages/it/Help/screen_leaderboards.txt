@@ -1,0 +1,12 @@
+﻿c/u/Schermata Circuito
+
+u/Pannello Circuito
+Usa i pulsanti di navigazione per controllare i dettagli del circuito in tutte le gare.
+
+u/Pannello Storia
+Tutti i risultati sono registrati e possono essere visualizzati qui.
+
+u/Classifica Online
+La classifica online ti permette di comparare i tuoi tempi sul giro con gli altri piloti di New Star Grand Prix in giro per il mondo.
+
+Per fare l'upload del tuo miglior tempo basta cliccare sul pulsante upload.

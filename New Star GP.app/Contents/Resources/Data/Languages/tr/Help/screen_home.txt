@@ -1,0 +1,74 @@
+﻿c/u/btn_NavBar_Home/Ana Ekran
+Ana ekranda sürücünüz hakkinda basit detaylari bulabilir, ayni zamanda geçerli sampiyona siralamasi hakkinda bilgi edinebilirsiniz. Bir sezonda 17 yaris bulunmaktadir ve amaç sürücü sampiyonasini birincilikle bitirmektir. Ayni zamanda bir yapimci sampiyonasi tablosu bulunmaktadir. Bu tabloda grand prix'de yarisan takimlar ve puanlari görüntülenir. Her birinde 2 sürücü olan toplam 10 takim bulunmaktadir.
+
+c/u/Baslik Çubugu
+
+btn_Header_Help/Yardim ekranini getirir.
+
+btn_Header_Options/İngiliz anahtari resmi oyunun bazi ayarlarini degistirebilmenizi saglar.
+
+btn_Header_Quit/Oyundan herhangi bir anda çikmak için Çikis dügmesine basmaniz yeterlidir. Oyununuz çikmadan önce kaydedilecektir.
+pagebreak/
+c/u/Gezinti Çubugu
+
+btn_NavBar_Home/Sizi ana ekrana geri getirir.
+
+btn_NavBar_Leaderboards/Tüm pistler için geçmis sonuçlari görüntüleyebilmenizi saglar. Ayni zamanda tur sürelerinizi çevrim içi en iyiler listesine gönderebilmenize olanak saglar.
+
+btn_NavBar_Team/Burada takimlari ve sürücülerini tüm ayrintilariyla görebilirsiniz. Ayni zamanda isterseniz isimleri degistirebilirsiniz.
+
+btn_NavBar_Finances/Araç ve mülk satin almak için dükkana gidebilirsiniz. Ayni zamanda bu ekranda kendi araçlarinizi yaristirabilirsiniz.
+
+btn_NavBar_Casino/Kumarhaneye giderek kisa sürede para kazanabilirsiniz!
+pagebreak/
+c/u/Iliskiler
+imgRelationsBoss/Patronunuzun gönlünü hos tutarsaniz takiminizdaki 1 numarali sürücü olmaya devam edersiniz. 1 numarali sürücü, 2 numarali sürücünün iki kati ödül parasi kazanir. Iyi tur süreleri elde ettiginizde, yarislarda iyi bir baslangic noktasında oldugunuzda ya da yarisi bitirirken iyi bir konumda oldugunuzda patronunuz memnun olacaktir. Güçlü takimlarin patronlari, zayif takimdakilere göre daha yüksek basarilar isteyecektir.
+
+imgRelationsPitCrew/Eger pit ekibiniz mutluysa, pit süreleriniz daha kisa olacaktir. Pit ekibinizi etkilemek için turlari hiç hasar almadan tamamlamaniz gerekmektedir. Asiri hasarlar onlari kizdiracaktir. Ayni zamanda pit ekibinizle kumarhaneye gidebilirsiniz.
+
+imgRelationsFans/Hayranlariniz performansiniza yanit verecektir. Siralamalarda iyi yere gelirseniz sizi takdir edeceklerdir. Ününüz arttikça daha iyi sponsor firmalarindan teklif alacaksiniz.
+
+imgRelationsFriends/Arkadaslarinizla zaman zaman ilgilenmeniz gerekir. Arkadaslarinizi göz ardi ederseniz hayatiniz daha stresli olmaya baslayacak, yaris esnasinda daha çok hata yapacak ve kalkis çizgisinden gecikmeli kalkacaksiniz. Arkadaslariniz mutsuzken aracinizin hizlanma süresi yaris baslangicinda daha uzun olacaktir. Isiklar sönmeden hizlanmaya çalismayin, iyice yavaslarsiniz.
+pagebreak/
+btn_NavBar_Practice/Alistirma oturumlari geçerli yarisi ögrenmenizi saglar. Iyi tur zamanlamalari elde etmek, patronunuzu mutlu edecektir.
+
+btn_NavBar_Play/Oyna dügmesi oyunu bir gün ilerletir
+
+btn_NavBar_PlayQualify/Cumartesi günleri yapilan yarislarda siralamalar belirlenir. Zamanlamaniz ne kadar iyiyse baslangiç çizgisinde o kadar önde olursunuz. Siralamalar için ekranin üst bölümünde gösterilen bir zaman sinirlamasi bulunmaktadir.
+
+btn_NavBar_PlayRace/Bu dügme yarisi baslatir. Kazanma sansinizi artirmak için bir sonraki sayfada anlatilan oyun ögelerine önem vermeniz gerekir.
+
+Ödül puanlari asagidaki gibidir:
+1nci = 10
+2nci = 8
+3ncü = 6
+4ncü = 5
+5nci = 4
+6nci = 3
+7nci = 2
+8nci = 1
+
+pagebreak/
+u/Hasar
+Diger araçlara ya da pist duvarlarina çarparsaniz araciniz hasar görür. Eger çok fazla hasar görürseniz aracinizin ulasabilecegi en yüksek hiz sinirlandirilacaktir.
+
+u/Yakit
+Yakitiniz bittiginde yaris disi kalirsiniz. Yakit seviyesi aracin hizini etkiler ama düsük yakit seviyesinde oynamanin bazi avantajlari vardir. Daha az yakit miktari, aracinizin daha hafif olmasini saglar.
+
+u/Lastik
+Yaris esnasinda lastikleriniz asinacaktir. Bu, köse dönüslerinde sorunlara neden olur. Beyaz çizgilerin disinda kalan kirli bölgelerde lastikler daha çok asinir. Yüksek hizlarda çimlere ya da çakillara çarparsaniz bu durum iyice artacaktir.
+pagebreak/
+c/u/Pit Stoplar
+
+Pit Stoplar, New Star Grand Prix'de önemli bir yer tutarlar. Yarisi kazanip kaybetmede pit stoplari ayarlamanin önemi büyüktür. Pit stopa girmek için araci pit stop çizgisine sürmek gerekir. Bu noktada oyun duraklatilacak ve pit stop ekrani açilacaktir. 
+
+u/Pit Stop Paneli
+Kontrol tuslarini kullanarak istediginiz yakit seviyesini belirleyebilirsiniz. Bir önceki sayfada belirtildigi gibi, yakit deopsunu sonuna kadar doldurmamanin bazi avantajlari bulunmaktadir.
+
+Tekerlekleri degistirmek lastikleri de düzeltecektir. Eger hava yagisliysa islak lastikleri degistirmek yol tutusunu artiracaktir. Islak bir pistte islak lastikler kullanmak tehlikeli olacaktir. 
+
+Istediginiz ayarlari belirledikten sonra oyunu baslatabilirsiniz.
+
+u/Pit Stop Zamanlari
+Pit ekibinizin yeniden dolum, onarim ve lastik degistirme süreleri onlarla iliskilerinize baglidir. Pit stop, araç yeniden yakit aldiktan ve tamamen onarildiktan sonra bitecektir. Lastik degistirmek, araciniz onarim ya yeniden yakit dolumu gerektirmese de bir kaç saniye alacaktir.
+

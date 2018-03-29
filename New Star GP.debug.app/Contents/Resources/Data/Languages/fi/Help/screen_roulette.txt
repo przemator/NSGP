@@ -1,0 +1,31 @@
+﻿c/u/Rulettiruutu
+
+u/Panos
+Aseta rahan määrä minkä haluat käyttää panos-pudotusvalikosta. Aseta panos pöydälle painamalla sitä. Voit asettaa panoksia moninkertaisesti pöydälle. Poistaaksesi ne klikkaa niitä uudelleen.
+
+u/Pyöritä
+Käytä Pyöritä-nappia pyörittääksesi rengasta.
+
+u/Tyhjennä
+Käytä Tyhjennä-nappia peruuttaaksesi panoksesi.
+
+c/u/Säännöt
+
+Jos pallo pysähtyy sille numerolle johon olet asettanut panoksen, voitat rahaa.
+
+1 to 18 - Pallon täytyy pysähtyä numeroiden 1 ja 18 väliin. Palkinto = panos X 
+Even - Pallon täytyy pysähtyä parilliseen numeroono. Palkinto = panos X 2
+Red - Pallon täytyy pysähtyä punaiseen numeroon. Palkinto = panos X 2
+Black - Pallon täytyy pysähtyä mustaan numeroon. Palkinto = panos x 2.
+Odd - Pallon täytyy pysähtyäan parittomaan numeroon. Palkinto = panos x 2.
+19 to 36 - Pallon täytyy pysähtyä numeroiden 19 ja 36 väliin. Palkinto = panos x 2.
+
+1st 12 - Pallon täytyy pysähtyä numeroiden 1 ja 12 väliin. Palkinto = panos x 3.
+2nd 12 - Pallon täytyy pysähtyä numeroiden 13 ja 24 väliin. Palkinto = panos x 3.
+3rd 12 - Pallon täytyy pysähtyä numeroiden 25 ja 36 väliin. Palkinto = panos x 3.
+
+0 - Pallon täytyy pysähtyä numeroon 0. Palkinto = panos x 36.
+00 - Pallon täytyy pysähtyä numeroon 00. Palkinto = panos x 36.
+
+Numbers 1 to 36 - Pallon täytyy pysähtyä valitsemallesi numerolle. Palkinto = panos x 36.
+2 to 1 - Pallon täytyy pysähtyä tämän pystyrivin numeroon. Palkinto = panos x 3.

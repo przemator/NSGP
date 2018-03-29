@@ -1,0 +1,13 @@
+﻿c/u/Rataruutu
+
+u/Ratapaneeli
+Käytä navigointinäppäimiä tarkastaaksesi radan yksityiskohdat kaikista grand prix'n radoista
+
+u/Historiapaneeli
+Kaikki tulokset ovat tallennettuna ja tarkasteltavissa täällä.
+
+u/Online-johtajataulukko
+Online-johtajataulukko sallii sinun vertailla omia kierrosaikojasi muiden New Star Grand Prix-kuskien aikoihin ympäri maailmaa.
+
+Asettaaksesi henkilökohtaisen parhaan aikasi näytetylle radalle, klikkaa aseta-nappia.
+

@@ -1,0 +1,26 @@
+﻿c/u/Uusi pelaaja
+
+Aloittaessasi uuden uran, sinun tarvitsee syöttää kuskin tiedot ja valita talli.
+
+c/u/Talli
+
+Jokaisen tallin autoilla on omat tunnusmerkit.
+
+u/Käsittely
+Määrittää kuinka hyvin auto vastaa ohjaukseen.
+
+u/Kiihdytys
+Määrittää kuinka nopeasti auto saavuttaa maksiminopeuden.
+
+u/Nopeus
+Määrittää auton maksiminopeuden.
+
+Polttoainetankki, vahinko ja rengaskulutus vaikuttaa myös auton ominaisuuksiin kisan aikana.
+
+Kun olet valinnut tallin, sinut tarvitsee valita kenet kuljettajan korvaat. Kuljettavat voiva uudelleenesiintyä muissa talleissa tulevilla kausilla.
+
+c/u/Tallennustiedosto
+
+Valitse tallennustiedostollesi nimi. Tallennustiedostot ovat My Documents/New Star Grand Prix-kansiossa.
+
+Voit aloittaa niin monta uraa kuin haluat käyttämällä samaa ajajan nimeä. Sinun tarvitsee vain antaa jokaisella oma erilainen tallennusnimi.

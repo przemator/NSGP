@@ -1,0 +1,7 @@
+﻿<screen name="screen_roulette">
+	<panel name="pan_header"/>
+	<panel name="pan_roulettecontrols"/>
+	<panel name="pan_rouletteball"/>
+	<panel name="pan_casinonav"/>
+	<panel name="pan_date"/>
+</screen>

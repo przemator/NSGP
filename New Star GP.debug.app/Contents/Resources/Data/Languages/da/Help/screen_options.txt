@@ -1,0 +1,50 @@
+﻿c/u/Indstillinger
+
+Her kan du indstille spillet efter dine ønsker. Du kan også registrere spillet, hvis du har købt en licensnøgle.
+c/u/Løb
+
+u/Omgange
+Antallet af omgange som løbet vil vare.
+
+u/Kamerahøjde
+Indstil kameraet fra meget lavt til meget højt.
+
+u/Pit-radio
+Din omgangstid bliver nævnt over radioen, når du gennemfører en omgang. Du bliver også advaret, hvis din benzintank er næsten tom. Du kan slukke radioen med denne indstilling.
+
+u/Kort
+Banekortet viser banen og kørernes placeringer. Du kan fjerne eller tilføje kortet med denne indstilling.
+
+u/Benzin
+Mængden af benzin påvirker din bils vægt og hastighed. Du kan fjerne benzin fra spillet, hvis du ikke vil bekymre dig om at tanke op.
+
+u/Damage
+Efterhånden som en bil bliver skadet, vil den blive langsommere. Du kan fjerne skader her.
+
+u/Dækslitage
+Efterhånden som dækkene bliver slidte, vil de miste vejgreb, når du drejer rundt i svingene. Du kan fjerne dækslitage her.
+c/u/Sværhedsgrad
+
+Sværhedsgraden påvirker hovedsageligt hastigheden på dine modstandere. Hvis du spiller på Nemt, vil du opleve, at modstanderne kører langsommere og laver flere fejl. Skader på bilen bliver straffet hårdere på de højere sværhedsgrader.
+
+Sværhedsgraden vil også have indflydelse på dine forhold, idet det vil blive sværere at imponere chefen, pit-besætningen, fans og venner på en højere sværhedsgrad.
+
+c/u/Skærm
+
+Skift imellem fuld skærm og vinduetilstand.
+
+c/u/Lyd
+
+Juster lydstyrken på musik og lydeffekter her.
+
+c/u/Kontrol
+
+For at ændre kontrollen skal du blot klikke på den relevante knap og derefter klikke eller trykke på den tast eller knap, du ønsker at bruge. Vis Info-knappen viser information om kørerne under løbet.
+
+c/u/Registration
+
+Prøveversionen af New Star Grand Prix tillader dig at prøve de tre første baner i din karriere. Køb din licensnøgle fra www.newstargames.com hvis du ønsker den fulde version af spillet, som tillader dig at spille op til 10 sæsoner i din karriere. Når du er registreret kan du starte så mange karrierer, du vil, så længe du bruger det kørernavn, du registrerede dig med. 
+
+btn_Options_Cancel/Annuller alle ændringer, du har foretaget dig.
+
+btn_Options_Proceed/Når du er tilfreds med dine nye indstillinger, klikker du på denne knap.

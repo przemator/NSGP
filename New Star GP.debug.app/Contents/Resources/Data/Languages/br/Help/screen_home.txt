@@ -1,0 +1,73 @@
+﻿c/u/btn_NavBar_Home/Tela Inicial
+A tela inicial é onde você pode encontrar as informações básicas sobre seu jogador e a classificação atual do campeonato. Há 17 corridas em uma temporada e o objetivo é terminar em primeiro no campeonato de pilotos. Também há uma tabela do campeonato de construtores, mostrando as equipes competindo e os pontos que cada uma possui. Há 10 equipes, cada uma com 2 pilotos.
+
+c/u/Barra Superior
+
+btn_Header_Help/Mostra a tela de ajuda.
+
+btn_Header_Options/O ícone na forma de chave de fenda permite alterar várias configurações do jogo.
+
+btn_Header_Quit/Para sair do jogo a qualquer momento, clique no botão de sair. O jogo será salvo antes de sair.
+pagebreak/
+c/u/Barra de Navegação
+
+btn_NavBar_Home/Leva de volta à tela inicial.
+
+btn_NavBar_Leaderboards/Permite ver resultados anteriores para todas as pistas. Também permite que você envie suas melhores voltas para a tabela online.
+
+btn_NavBar_Team/Aqui você pode conferir todos os times e equipes em detalhes. Você pode editar seus nomes se desejar.
+
+btn_NavBar_Finances/Vá às compras para adquirir carros e propriedades. Você pode usar seus carros a partir desta tela.
+
+btn_NavBar_Casino/Visite o cassino e tente sua sorte!
+pagebreak/
+c/u/Relacionamentos
+imgRelationsBoss/Mantenha o chefe feliz e você será o piloto número 1 da equipe. O primeiro piloto ganha o dobro em prêmios do que o segundo piloto, ao final da corrida. Você pode impressionar o chefe fazendo boas voltas nas sessões de treinamento, conseguindo uma boa posição de largada ou terminando a corrida em uma boa posição. Quanto maior a equipe, maiores serão as exigências do chefe.
+
+imgRelationsPitCrew/Se os engenheiros estiverem felizes, então os pit stops serão mais rápidos. Você pode impressionar os engenheiros completando voltas sem danificar o carro. Danos excessivos ao carro irão chateá-los. Você também pode ir ao cassino com eles.
+
+imgRelationsFans/Fãs respondem a suas performances. Largue em boas posições e conquiste bons resultados nas corridas e eles irão adorá-lo. Quanto mais famoso você for, melhores serão as propostas de patrocínio.
+
+imgRelationsFriends/Amigos requerem que você gaste tempo com eles de vez em quando. Se você os ignorar, sua vida será estressante e seus reflexos serão afetados no grid de largada. Se seus amigos estão infelizes, você notará que o carro demorará mais responder no inicío da corrida. Não acelere antes das luzes se apagarem ou então você irá largar ainda mais devagar.
+pagebreak/
+btn_NavBar_Practice/As sessões de treinamento permitem que você aprenda o traçado do circuito. Marcar boas voltas irá impressionar o chefe.
+
+btn_NavBar_Play/Aperte o botão Avançar para avançar de um dia para o outro.
+
+btn_NavBar_PlayQualify/Aos sábados você deverá marcar seu tempo de qualificação para determinar a ordem de largada. Quanto melhor for seu tempo, melhor será sua posição. Há um tempo limite para a qualificação, que é exibido no topo da tela.
+
+btn_NavBar_PlayRace/Isto irá avançar para a corrida. Para ter uma chance de vitória, você deverá ficar atento a diversos fatores, descritos na próxima página.
+
+Os pontos são distribuidos da seguinte forma:
+1º = 10
+2º = 8
+3º = 6
+4º = 5
+5º = 4
+6º = 3
+7º = 2
+8º = 1
+
+pagebreak/
+u/Dano
+Se você bater em outros carros ou nas paredes da pista, seu carro irá ser danificado. Conforme você danificá-lo mais, a velocidade máxima de seu carro será diminuída.
+
+u/Combustível
+Obviamente, ficar sem combustível signficia que você está fora da corrida. O nível de combustível afeta a velocidade do carro, logo há vantagens em correr com pouco combustível. Pouco combustível signficia um carro mais leve e rápido do que um carro com o tanque cheio.
+
+u/Desgaste dos pneus
+Durante uma corrida, seus pneus se deteriorão. Isto fará com que as curvas sejam mais difíceis de seream realizadas conforme os pneus perdem aderência. O desgaste será mais rápido se você passar na parte suja da pista (fora das linhas brancas). Ele será ainda mais rápido se você passar pela grama ou pela caixa de brita a altas velocidades.
+pagebreak/
+c/u/Pit Stops
+
+Pit stops são cruciais em New Star Grand Prix e fazer paradas táticas pode ser a diferença entre o sucesso e o fracasso. Você inicia um pit stop ao entrar na área de pit. Neste momento, o jogo irá pausar e o painel de pit stop irá aparecer. 
+
+u/Painel de Pit Stop
+Use as teclas direcionais para ajustar o nível de combustível. Como dito anteriormente, pode ser vantajoso não encher o tanque.
+
+Mudar pneus irá restaurar o desgaste do pneus. Se estiver chovendo, então você deverá colocar os pneus apropriados, para manter a aderência à pista. Usar os pneus errados na chuva irá tornar a pilotagem escorregadia e perigosa! 
+
+Uma vez que você esteja satisfeito com as configurações, volte para a corrida.
+
+u/Tempos de Pit Stop
+O tempo gasto pelos engenheiros para colocar combustível, consertar e trocar pneus é determinado por seu relacionamento com eles. O pit stop irá terminar quando terminarem de colocar combustível e o carro estiver consertado. Mudar de pneus fará com que o tempo de pit stop seja de pelo menos alguns segundos, mesmo que o carro não receba mais combustível ou precise ser consertado.

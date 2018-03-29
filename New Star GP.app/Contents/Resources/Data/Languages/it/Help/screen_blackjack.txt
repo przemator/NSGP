@@ -1,0 +1,18 @@
+﻿c/u/Schermata Black Jack
+
+u/Stake
+Scegli quanto vuoi puntare nel menu apposito.
+
+u/Accordo
+Usa il pulsante Accordo per iniziare il gioco.
+
+u/Hit
+Usa il pulsante Hit per ricevere altre carte.
+
+u/Blocca
+Quando sei soddisfatto delle carte che hai in mano clicca il pulsante Blocca.
+
+c/u/Regole
+
+Lo scopo del gioco è raggiungere il punteggio di 21 sommando il valore delle carte che si ha in mano. Chi realizza un blackjack ha la vincita assicurata e se il 21 viene realizzato dal croupier tutti gli altri giocatori devono pagare il doppio della quota giocata.
+Non puoi fermarti se il valore delle carte è minore a 16 ed è invece obbligato a non chiedere carta se il valore complessivo è maggiore o uguale a 17. Chi poi realizza un valore superiore a 21 perde immediatamente la partita e deve corrispondere la quota che aveva giocato, la stessa cosa è applicabile anche al croupier.

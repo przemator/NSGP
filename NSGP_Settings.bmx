@@ -58,6 +58,8 @@ DebugLog "Dir:"+CurrentDir()
 	gAppLoc = appName+"/Contents/Resources/Data/"
 ?
 
+Print gAppLoc
+
 gSaveloc = Trim(LoadVariableString(gAppLoc + "Settings/Engine.ini", "saveloc"))
 If Len(gSaveloc) < 4
 	gSaveloc = GetUserDocumentsDir()+"/New Star GP/"	' Home for saves and written file

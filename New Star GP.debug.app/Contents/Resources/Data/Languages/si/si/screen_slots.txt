@@ -1,0 +1,23 @@
+﻿c/u/Avtomat
+
+u/Stava
+Nastavi znesek, ki ga želiš staviti v roletnem meniju.
+
+u/Igraj
+Klikni gum Igraj, da zavrtiš kolesca.
+
+u/Dregni
+Dregljaji so nagrada za par enakih vrst sadja. Kadar so na voljo, jih lahko uporabiš, da premakneš kolesce navzdol za eno mesto. Zneska stave ni mogoče spremeniti, kadar imaš na voljo dregljaje.
+
+c/u/Pravila
+
+Cilj igre je dobiti tri enake vrste sadja. Nagrada je odvisna od vrste sadja.
+
+Pomaranče = Stava x 5
+Slive = Stava x 10
+Banane = Stava x 15
+Jabolka = Stava x 20
+Grozdje = Stava x 25
+Češnje = Stava x 30
+Ananas = Stava x 40
+Jagode = Stava x 50

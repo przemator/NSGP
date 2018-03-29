@@ -1,0 +1,16 @@
+﻿c/u/Black Jack-ruutu
+
+u/Panos
+Aseta haluamasi panos Panos-pudotusvalikosta.
+
+u/Jaa
+Käytä Jaa-nappia aloittaaksesi pelin.
+
+u/Lyö
+Käytä Lyö-nappia saadaksesi lisäkortin
+
+u/Jää
+Kun olet tyytyväinen käteesi, klikkaa Jää-nappia. Jakaja aloittaa silloin pelaamisen.
+
+c/u/Säännöt
+Pelin tarkoitus on saada korttien yhteisarvoksi 21 tai mahdollisimman lähettele tätä lukua menemättä kuitenkaan sen yli. Jos pääset lähemmäksi lukua 21 kuin jakaja, voitat. Ässien arvo voi olla 1 tai 11. Jos saat ässän jätkän, rouvan tai kuninkaan kanssa, silloin olet saanut Black Jackin ja jakaja ei voi enää voittaa sinua. Jakaja jää aina lukuun 17 tai enemmän.

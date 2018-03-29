@@ -1,0 +1,6 @@
+<screen name="screen_relationships">
+	<panel name="pan_header"/>
+	<panel name="pan_relations_boss"/>
+	<panel name="pan_navbar"/>
+	<panel name="pan_date"/>
+</screen>

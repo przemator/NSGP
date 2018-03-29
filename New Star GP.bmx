@@ -60,12 +60,12 @@ Import blide.fontmachine
 'GUI
 'guid:ce5ab871_b952_4749_b8fe_5c3e31cbe6da
 Private
-TYPE z_ce5ab871_b952_4749_b8fe_5c3e31cbe6da_3_0 abstract  'Resource folder
+Type z_ce5ab871_b952_4749_b8fe_5c3e31cbe6da_3_0 Abstract  'Resource folder
 End Type
 
 
-TYPE z_blide_bgce5ab871_b952_4749_b8fe_5c3e31cbe6da Abstract
-    Const Name:string = "New Star GP" 'This string contains the name of the program
+Type z_blide_bgce5ab871_b952_4749_b8fe_5c3e31cbe6da Abstract
+    Const Name:String = "New Star GP" 'This string contains the name of the program
     Const MajorVersion:Int = 0  'This Const contains the major version number of the program
     Const MinorVersion:Int = 0  'This Const contains the minor version number of the program
     Const Revision:Int =  1  'This Const contains the revision number of the current program version
@@ -89,7 +89,7 @@ TYPE z_blide_bgce5ab871_b952_4749_b8fe_5c3e31cbe6da Abstract
     ?debug
     Const DebugOn : Int = True    'This const will have the integer value of TRUE if the application was build on debug mode, or false if it was build on release mode
     ?
-    ?not debug
+    ?Not debug
     Const DebugOn : Int = False
     ?
 EndType

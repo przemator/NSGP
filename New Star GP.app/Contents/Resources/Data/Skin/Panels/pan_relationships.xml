@@ -1,0 +1,7 @@
+<panel name="pan_relationships" x="10"	y="260" 	w="380" 	h="270" colour="" alpha="0.75">
+	<label name="lbl_title" 	x="10" 		y="5" 		w="360" 	h="20" textcolour="FFFFFF" text="Relationships" xalign="1" font="Large"/>
+	<label name="lbl_boss" 		x="85" 		y="45" 		w="260" 	h="20" textcolour="FFFFFF" text="Boss" xalign="" font="Medium"/>
+	<label name="lbl_pitcrew" 	x="85" 		y="100" 	w="260" 	h="20" textcolour="FFFFFF" text="Pit Crew" xalign="" font="Medium"/>
+	<label name="lbl_fans" 		x="85" 		y="155"		w="260" 	h="20" textcolour="FFFFFF" text="Fans" xalign="" font="Medium"/>
+	<label name="lbl_friends" 	x="85" 		y="210"		w="260" 	h="20" textcolour="FFFFFF" text="Friends" xalign="" font="Medium"/>
+</panel>

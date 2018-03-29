@@ -1,0 +1,59 @@
+﻿c/u/Options
+
+Here you can set up the game to your preference. You can also register the game if you have purchased a license key.
+
+c/u/Race
+
+u/Laps
+The number of laps that a race will last.
+
+u/View Height
+Set the game camera high or low.
+
+u/Pit Radio
+Your lap time is reported to you as you complete a lap. You are also warned when your fuel is low. You can turn off the radio with this option.
+
+u/Map
+The map displays the track and each car's position on it. Turn it on or off here.
+
+u/Fuel
+Fuel load affects the weight and speed of the car. You can turn off Fuel if you don't want to concern yourself with refueling.
+
+u/Damage
+As cars sustain damage they will slow down. You can turn off damage here.
+
+u/Tyre Wear
+As tyres wear down your car will lose grip around corners. Turn on or off tyre wear here. 
+
+u/Speedometer
+You can choose to switch the on-screen speedometer on or off. This displays current speed, fuel, damage and so on.
+
+u/KERS
+KERS is the Kinetic Enegy Recovery System. If the KERS option is switched on then cars which have KERS devices fitted can use the boost button to get extra acceleration. However, fitting a KERS unit will increase the weight of the car and reduce the top speed.
+
+
+c/u/Difficulty
+
+Difficulty settings generally affect the speed of the computer controlled drivers. The Easy setting means they will be slower and will make more mistakes. Car damage is more costly on the higher difficulty settings.
+
+The difficulty setting will affect your relationships, making it easier or harder to impress the boss, pit crew, fans and friends.
+
+c/u/Screen
+
+Switch between windowed and full screen mode.
+
+c/u/Sound
+
+Set the volume of sound effects and music to your preference.
+
+c/u/Controls
+
+To change the racing controls just click the relevant button then press the key or joystick control you wish to use. The Show Info control is used to display information about the drivers during a race.
+
+c/u/Registration
+
+The trial version of New Star Grand Prix only allows you to race the first 3 tracks in your career. Purchase a license key from www.newstargames.com if you wish to unlock the full version and play up to 10 seasons in a career. Once registered you can start as many careers as you wish so long as you use the driver name you registered.
+
+btn_Options_Cancel/Cancel any changes to the options with this button.
+
+btn_Options_Proceed/When you are happy with your option settings click this button to confirm them.

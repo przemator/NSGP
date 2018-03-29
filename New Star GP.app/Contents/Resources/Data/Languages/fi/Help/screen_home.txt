@@ -1,0 +1,74 @@
+﻿c/u/btn_NavBar_Home/Kotiruutu
+Kotiruutu on se mistä löydät perustiedot pelaajastasi ja nykyisen maailmanmestaruustilaston. Kaudessa on 17 kisaa ja tähtäin on olla lopuksi kuljettajien mestaruustilaston ykkönen. On myös valmistajien maailmanmestaruus, mikä listaa tallit jotka kilpailevat grand prix'ssä ja pisteet joita talleilla on. On 10 tallia, jokaisessa 2 kuljettajaa.
+
+c/u/Otsikko
+
+btn_Header_Help/Tuo apu-ruudun.
+
+btn_Header_Options/Jakoavaimen kuva antaa sinun muuttaa eri peliasetuksia
+
+btn_Header_Quit/Lopettaaksesi pelin milloin tahansa, paina vain poistu-nappia. Pelisi tallennetaan ennen poistumista.
+pagebreak/
+c/u/Navigointiruudukko
+
+btn_NavBar_Home/Vie sinut takaisin kotiruutuun.
+
+btn_NavBar_Leaderboards/Antaa sinun tarkastaa edelliset tulokset kaikilta radoilta. Voit myös laittaa parhaat kierrosaikasi online-johtajataulukkoon.
+
+btn_NavBar_Team/Täältä voit tarkastaa kaikki tallit ja kuljettajat lisätiedoilla. Voit myös vaihtaa nimiä, jos haluat.
+btn_NavBar_Finances/Suuntaa kauppaan ostaaksesi autoja ja rakennuksia. Voit myös ajaa omia autojasi tältä ruudulta.
+
+btn_NavBar_Casino/Vieraile kasinolla ja voita jotain suurta!
+pagebreak/
+c/u/Suhteet
+imgRelationsBoss/Pidä pomo tyytyväisenä ja saat olla ykköskuski tallissa. Ykköskuski tienaa kaksinkertaisen summan palkintorahaa kuin kakkoskuski kisan jälkeen. Voit luoda pomoon vaikutuksen asettamalla hyviä kierrosaikoja harjoituksissa, saamalla hyvän lähtöruudun tai hyvällä loppusijoittumisella kisassa. Suurempien tallien pomot odottavat enemmän menestystä kuin pienemmiksi rankattujen tallien.
+
+imgRelationsPitCrew/Jos tallitiimisi on hyvällä tuulella, niin sitten varikkopysähdykset vievät vähemmän aikaa. Voit tehdä heihin vaikutuksen tekemällä kierroksia ilman vahinkoja. Liiallinen vahinko suututtaa heitä. Voit myös käydä kasinolla heidän kanssaan.
+
+imgRelationsFans/Fanit vastaavat suorituksiasi. Hyvällä lähtöruutupaikalla he ihailevat sinua. Mitä kuuluisampi olet, sitä parempia sponsorisopimustarjouksia saat.
+
+imgRelationsFriends/Ystävät vaativat, että kulutat välillä aikaa heidän kanssaan. Jos laiminlyöt ystäviäsi, silloin elämäsi on enemmän stressaavampi ja reaktioaikasi vaikuttavat lähtöruutupaikkaan. Jos ystäväsi ovat surullisia, huomaat autosi käyttäytyvän hitaammin kisan alkaessa. Yritä olla kiihdyttämättä ennen kuin kaikki valot ovat sammuneet tai muuten lähtösi on vielä hitaampi.
+pagebreak/
+btn_NavBar_Practice/Harjoitukset antavat sinun oppia rata jossa viikonloppuna kisataan. Hyvät kierrosajat tekevät pomoon vaikutuksen.
+
+btn_NavBar_Play/Nuoli-nappi edistää aikaa yhdellä päivällä.
+
+btn_NavBar_PlayQualify/Lauantaisin sinun täytyy asettaa aika-ajoaika määrittääksesi sijaintisi lähtöruudukossa. Mitä parempi aikasi on, sitä korkeampi sijaintisi lähtöruudukossa on. Aika-ajossa on rajoitettu suoritusaika, mikä on näkyvillä ruudun yläreunassa.
+
+btn_NavBar_PlayRace/Tämä aloittaa itse kisan. Varmistaaksesi mahdollisuudet voittoon, sinun tulisi pitää silmällä muutamia avainasioita, jotka selitetään seuraavalla sivulla.
+
+Pisteet annetaan seuraavasti:
+1. = 10
+2. = 8
+3. = 6
+4. = 5
+5. = 4
+6. = 3
+7. = 2
+8 = 1
+
+pagebreak/
+u/Vahinko
+Jos osut muihin autoihin tai radan seinään, autosi kärsii vahingosta. Kun kärsit enemmän vahinkoa, autosi huippunopeus pienenee.
+
+u/Polttoaine
+Polttoaineen loppuminen tarkoittaa, että olet ulkona kisasta. Polttoainemittari vaikuttaa auton nopeuteen niin, että on etu ajaa pienellä polttoainemäärällä. Vähemmän polttoainetta tarkoittaa, että auto on kevyempi ja nopeampi kuin jos olisi täysi tankki.
+
+u/Renkaan kuluminen
+Kisan aikana renkaasi heikkenee. Tämä tekee mutkakäännökset vaikeammiksi, kun renkaasi menettävät pitoa. Renkaankulumisen vauhti kasvaa, jos ajat radan ulkopuolella. Kuluminen kasvaa huomattavasti, jos ajat ruoholla, hiekalla tai soralla kovilla nopeuksilla.
+pagebreak/
+c/u/Varikkokäynti
+
+Varikkokäynnit ovat ratkaisevia New Star Grand Prix'ssä. Tekemällä taktisia pysähdyksia voi tarkoittaa mitä vain menestyksen ja epäonnen välillä. Käynnistät varikkokäynnin ajamalla varikkoviivan läpi, jolloin peliin tulee tauko ja varikkopaneeli tulee esiin.
+
+u/Varikkopaneeli
+Käytä nuolinäppäimiä asettaaksesi halutun määrän polttoainetta. Kuten aikaisemmalla sivulla selitettiin, on joskus etu olla täyttämättä tankkia kokonaan.
+
+
+Vaihtamalla renkaita, renkaiden kulutus nollaantuu. Jos sataa, silloin sinun tulisi vaihtaa märän kelin renkaat pitääksesi maksimipidon radalla. Sileät renkaat märällä radalla saa ajamisen hyvin liukkaaksi ja vaaralliseksi!
+
+Kun olet tyytyväinen asetuksiin, mene pysäytetty-kohtaan jatkaaksesi kisaa.
+
+u/Varikkopysäköinnin aika
+Aika jossa tallitiimi tankkaa, korjaa ja vaihtaa renkaat määräytyy suhteestasi heihin. Varikkopysähdykset ovat valmiit kun auto on tankattu ja täysin korjattu. Renkaiden vaihtaminen tarkoittaa, että minimi varikkopysähdyksen aika on vähintään muutama sekunti, vaikkei auto tarvitse tankkausta tai korjausta.
+

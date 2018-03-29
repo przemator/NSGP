@@ -1,0 +1,31 @@
+﻿c/u/Tela da Roleta
+
+u/Aposta
+Ajuste quanto dinheiro você quer apostar no menu. Confirme a aposta clicando nela. Você pode colocar várias apostas. Para removê-las, clique nelas de novo.
+
+u/Girar
+Use o botão Girar para girar a roleta.
+
+u/Limpar
+Use o botão Limpara para cancelar suas apostas.
+
+c/u/Regras
+
+Se a bola parar no número que você apostou você receberá um prêmio em dinheiro.
+
+1 a 18 - A bola deve parar em um número entre 1 e 18. Prêmio = Aposta x 2.
+Par - A bola deve parar em um número par. Prêmio = Aposta x 2.
+Vermelho - A bola deve parar em um número vermelho. Prêmio = Aposta x 2.
+Preto - A bola deve parar em um número preto. Prêmio = Aposta x 2.
+ímpar - A bola deve parar em um número ímpar. Prêmio = Aposta x 2.
+19 a 36 - A bola deve parar em um número entre 19 e 36. Prêmio = Aposta x 2.
+
+1ª dezena - A bola deve parar em um número entre 1 e 12. Prêmio = Aposta x 3.
+2ª dezena - A bola deve parar em um número entre 13 e 24. Prêmio = Aposta x 3.
+3ª dezena - A bola deve parar em um número entre 25 e 36. Prêmio = Aposta x 3.
+
+0 - A bola deve parar no número 0. Prêmio = Aposta x 36.
+00 - A bola deve parar no número 00. Prêmio = Aposta x 36.
+
+Números 1 to 36 - A bola deve parar no número escolhido. Prêmio = Aposta x 36.
+2 contra 1 - A bola deve parar em qualquer número desta coluna. Prêmio = Aposta x 3.

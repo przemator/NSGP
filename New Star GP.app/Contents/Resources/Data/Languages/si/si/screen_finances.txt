@@ -1,0 +1,10 @@
+﻿c/u/Finance
+
+u/Finance
+Na tem zaslonu lahko spremljaš, koliko denarja si zaslužil, zapravil in izgubil.
+
+u/Vozila
+Tu lahko kupiš cestna vozila. Ko jih imaš v lasti, lahko z njimi dirkaš na testni stezi. Če želiš izboljšati svoje odnose s prijatelji, jim lahko kupiš avto!
+
+u/Posest
+Nepremičnine pokažejo, kdo na dirkah za veliko nagrado zasluži največ. Če kupiš posest za prijatelje, bo to zelo izboljšalo odnose z njimi.

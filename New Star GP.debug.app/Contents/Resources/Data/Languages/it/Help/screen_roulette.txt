@@ -1,0 +1,31 @@
+c/u/Schermata Roulette
+
+u/Stake
+Grazie ai sottomenu decidi quanto scommettere. Piazza la scommessa sul tavolo cliccandoci. Puoi piazzare scommesse multiple. Per rimuoverle clicca su di esse di nuovo.
+
+u/Gira
+Usa il pulsante Spin per girare la ruota.
+
+u/Pulisci
+Usa il pulsante Pulisci per cancellare le tue scommesse.
+
+c/u/Regole
+
+Se la pallina cade sul numero dove tu hai scommesso riceverai il premio in denaro.
+
+1 a 18 - La pallina deve cadere su un numero che va da 1 a 18. Premio = stake x 2.
+Even - La pallina deve cadere su un numero even. Premio = stake x 2.
+Red - La pallina deve cadere su un numero rosso. Premio = stake x 2.
+Black - La pallina deve cadere su un numero nero. Premio = stake x 2.
+Odd - La pallina deve cadere su un numero odd. Premio = stake x 2.
+19 a 36 - La pallina deve cadere su un numero che va da 19 a 36. Premio = stake x 2.
+
+1st 12 - La pallina deve cadere su un numero che va da 1 a 12. Premio = stake x 3.
+2nd 12 - La pallina deve cadere su un numero che va da 13 a 24. Premio = stake x 3.
+3rd 12 - La pallina deve cadere su un numero che va da 25 a 36. Premio = stake x 3.
+
+0 - La pallina deve cadere sul numero 0. Premio = stake x 36.
+00 - La pallina deve cadere sul numero 00. Premio = stake x 36.
+
+Numeri 1 a 36 - La pallina deve cadere sul numero scelto. Premio = stake x 36.
+2 a 1 - La pallina deve cadere su qualsiasi numero in questa colonna. Premio = stake x 3.

@@ -1,0 +1,9 @@
+<screen name="screen_home">
+	<panel name="pan_header"/>
+	<panel name="pan_trackprofile"/>
+	<panel name="pan_results"/>
+	<panel name="pan_relationships"/>
+	<panel name="pan_driverchampionship"/>
+	<panel name="pan_navbar"/>
+	<panel name="pan_date"/>
+</screen>
