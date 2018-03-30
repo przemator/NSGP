@@ -1,4 +1,0 @@
-<panel name="pan_raceoptions" x="100" y="100" w="600" h="400">
-	<label name="lbl_title" 		x="10" 	y="10"		w="600" 	h="30" 	text="Race Options" xalign="1" font="Medium"/>
-	<button name="btn_continue" 	x="10"	y="350" 	w="580" 	h="40" 	text="Continue" font="Large"/>
-</panel>

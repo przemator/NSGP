@@ -1,5 +1,0 @@
-﻿c/u/Tela da equipe
-
-Detalha todas as equipes e pilotos. Use os botões de navegação para navegar entre times.
-
-btn_TeamProfile_EditTeam/Você pode alterar o nome da equipe e dos pilotos.

@@ -1,9 +1,0 @@
-<screen name="screen_leaderboards">
-	<panel name="pan_header"/>
-	<panel name="pan_trackprofile"/>
-	<panel name="pan_history"/>
-	<panel name="pan_leaderboard"/>
-	<panel name="pan_leaderboardcontrols"/>
-	<panel name="pan_navbar"/>
-	<panel name="pan_date"/>
-</screen>

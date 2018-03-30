@@ -1,3 +1,0 @@
-﻿c/u/Casino Screen
-
-From here you can choose to play Black Jack, Roulette or the Slot Machine.

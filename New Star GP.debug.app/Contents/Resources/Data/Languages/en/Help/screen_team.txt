@@ -1,5 +1,0 @@
-﻿c/u/Team Screen
-
-Details of all the teams and drivers can be found here. Use the navigation buttons to switch between teams.
-
-btn_TeamProfile_EditTeam/You edit change the team, principal and driver names.

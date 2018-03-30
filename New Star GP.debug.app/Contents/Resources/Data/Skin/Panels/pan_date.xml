@@ -1,4 +1,0 @@
-<panel name="pan_date" x="700" y="540" w="90" h="50" colour="" alpha="0.75">
-	<label name="lbl_week"		x="5"		y="10"		w="80"		h="30" text="Week"	xalign="1" yalign="0" textcolour="FFFFFF" font=""/>
-	<label name="lbl_day"		x="5"		y="27"		w="80"		h="30" text="Day"	xalign="1" yalign="0" textcolour="FFFFFF" font=""/>
-</panel>

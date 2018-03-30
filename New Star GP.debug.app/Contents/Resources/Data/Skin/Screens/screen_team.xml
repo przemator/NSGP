@@ -1,8 +1,0 @@
-<screen name="screen_team">
-	<panel name="pan_header"/>
-	<panel name="pan_driverprofile1"/>
-	<panel name="pan_driverprofile2"/>
-	<panel name="pan_teamprofile"/>
-	<panel name="pan_navbar"/>
-	<panel name="pan_date"/>
-</screen>

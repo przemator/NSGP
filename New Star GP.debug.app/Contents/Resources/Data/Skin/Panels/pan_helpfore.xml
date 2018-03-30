@@ -1,7 +1,0 @@
-<panel name="pan_helpfore" x="10" y="10" w="780" h="580" colour="" alpha="1.0">
-	<label name="lbl_page" 			x="20" 		y="547"		w="80" 	h="30" textcolour="FFFFFF" text="Page" xalign="0" font="Medium"/>
-	<button name="btn_prev" 		x="100"		y="540" 	w="120" 	h="30" 	text="Previous" link="" textcolour="000000" font="Medium"/>
-	<button name="btn_next" 		x="230"		y="540" 	w="120" 	h="30" 	text="Next" link="" textcolour="000000" font="Medium"/>
-	<button name="btn_onlinehelp" 	x="440"		y="540" 	w="200" 	h="30" 	text="Online Help" link="" textcolour="000000" font="Medium"/>
-	<button name="btn_ok" 			x="650"		y="540" 	w="120" 	h="30" 	text="OK" link="" textcolour="000000" font="Medium"/>
-</panel>

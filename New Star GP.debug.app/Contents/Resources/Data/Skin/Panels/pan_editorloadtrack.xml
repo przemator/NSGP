@@ -1,7 +1,0 @@
-<panel name="pan_editorloadtrack" x="10" y="10" w="300" h="260" colour="" alpha="0.75">
-	<label name="lbl_title"		x="10"		y="5"		w="280"		h="30" text="Load Track"	xalign="1" yalign="1" textcolour="FFFFFF" font="Large"/>
-	<table name="tbl_load" x="10" y="40" heading="Track Name" w="280" h="185" ih="18" alpha="0.5" colour="000000" textcolour="FFFFFF" selectcolour="FFFF00" selecttext="000000" headcolour="333333" headalpha="0.5" selectalpha="0.5" font="">
-	</table>
-	<button name="btn_loadtrack" 	x="10" y="230" w="180" h="20" text="Load" link="" textcolour="FFFFFF" font="Default"/>
-	<button name="btn_deletetrack"	x="200" y="230" w="90" h="20" text="Delete" link="" textcolour="FFFFFF" font="Default"/>
-</panel>

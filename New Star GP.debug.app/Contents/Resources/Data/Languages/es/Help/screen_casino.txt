@@ -1,3 +1,0 @@
-﻿c/u/Pantalla de casino 
-
-Desde aquí puede elegir jugar Black Jack, Ruleta o Tragamonedas.

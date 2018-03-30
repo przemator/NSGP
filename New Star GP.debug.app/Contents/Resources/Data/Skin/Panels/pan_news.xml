@@ -1,9 +1,0 @@
-<panel name="pan_news" x="10" y="70" w="780" h="460" colour="" alpha="0.0">
-	<label name="lbl_headline"		x="170"	y="70"	w="316"		h="100" text="Headline"	xalign="0" yalign="0" textcolour="FFFFFF" font="Large"/>
-	
-	<table name="tbl_results" 		x="500" y="70" 	heading="tla_Position" 	w="30" h="380" ih="18" alpha="0.5" colour="000000" textcolour="FFFFFF" selectcolour="FFFF00" selecttext="000000" headcolour="333333" headalpha="0.5" selectalpha="0.5" font="">
-		<tablecolumn heading="Driver" w="122"/>
-		<tablecolumn heading="Team" w="78"/>
-		<tablecolumn heading="tla_Points" w="30"/>
-	</table>
-</panel>

@@ -1,7 +1,0 @@
-<panel name="pan_leaderboardcontrols"	x="405"	y="380" 	w="390" 	h="150" colour="" alpha="0.75">
-	<label name="lbl_name"			x="10" 		y="5" 		w="370" 	h="30" textcolour="FFFFFF" text="Personal Best" xalign="1" yalign="0" font="Large"/>
-
-	<label name="lbl_trackname"			x="10" 		y="40" 	w="370" 	h="30" textcolour="FFFFFF" text="Track Name" xalign="1" yalign="0" font="Medium"/>
-	<label name="lbl_personalbest"		x="10" 		y="65" w="370" 	h="30" textcolour="FFFFFF" text="Time" xalign="1" yalign="0" font="Large"/>
-	<button name="btn_upload"			x="10" 		y="100" w="370"		h="40"	yalign="1"	text="Upload Time" font="Large"/>
-</panel>

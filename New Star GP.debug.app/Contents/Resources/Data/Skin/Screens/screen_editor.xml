@@ -1,9 +1,0 @@
-<screen name="screen_editor">
-	<panel name="pan_editorcontrols"/>
-	<panel name="pan_editorsavetrack"/>
-	<panel name="pan_editorloadtrack"/>
-	<panel name="pan_editortrackmap"/>
-	<panel name="pan_editorcontinue"/>
-	<panel name="pan_editorexit"/>
-	<panel name="pan_editorhelp"/>
-</screen>

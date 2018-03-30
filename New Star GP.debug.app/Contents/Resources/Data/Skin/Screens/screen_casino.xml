@@ -1,5 +1,0 @@
-﻿<screen name="screen_casino">
-	<panel name="pan_header"/>
-	<panel name="pan_casinonav"/>
-	<panel name="pan_date"/>
-</screen>

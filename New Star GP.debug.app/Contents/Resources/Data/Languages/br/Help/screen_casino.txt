@@ -1,3 +1,0 @@
-﻿c/u/Tela do Cassino
-
-Aqui você pode escolher jogar Black Jack, Roleta ou Caça-Níqueis.

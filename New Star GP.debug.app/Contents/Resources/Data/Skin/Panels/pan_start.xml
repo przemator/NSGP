@@ -1,9 +1,0 @@
-<panel name="pan_start" x="450" y="80" w="300" h="250" colour="" alpha="0.75">
-	<button name="btn_newgame" x="10" y="10" w="280" h="30" text="New Game" link="" textcolour="FFFFFF" font="Large"/>
-	<button name="btn_loadgame" x="10" y="50" w="280" h="30" text="Load Game" link="" textcolour="FFFFFF" font="Large"/>
-	<button name="btn_quickrace" x="10" y="90" w="280" h="30" text="Quick Race" link="" textcolour="FFFFFF" font="Large"/>
-	<button name="btn_online" x="10" y="130" w="280" h="30" text="Online Racing" link="" textcolour="FFFFFF" font="Large"/>
-	<button name="btn_options" x="10" y="170" w="280" h="30" text="Options" link="" textcolour="FFFFFF" font="Large"/>
-	<button name="btn_editor" x="10" y="210" w="135" h="30" text="Editor" link="" textcolour="FFFFFF" font="Large"/>
-	<button name="btn_replays" x="155" y="210" w="135" h="30" text="Replays" link="" textcolour="FFFFFF" font="Large"/>
-</panel>
