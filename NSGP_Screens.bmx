@@ -190,17 +190,16 @@ Function UpdateQuickRaceTable()
 	
 	tbl_QuickRace.ClearItems();	While fry_PollEvent() Wend
 	
-	Local dir:Int = ReadDir(gSaveloc+"/Tracks")
+	Local tracknames:String[] = LoadDir(gSaveLoc+"Tracks")
+	Local trackname:String
+
+	tracknames.sort()
 	
-	Repeat
-		Local trackname$=NextFile( dir )
+	For trackname:String = EachIn tracknames
 		If Right(trackname,4) = ".trk" 
 			tbl_QuickRace.AddItem([Left(trackname, Len(trackname)-4)],0,Null)
 		EndIf
-		If trackname="" Exit
-	Forever
-	
-	CloseDir dir
+	Next
 	
 	tbl_QuickRace.SelectItem(0)
 	
@@ -1432,18 +1431,17 @@ End Function
 
 Function UpdateLoadTrackTable()
 	tbl_Editor_LoadTrack.ClearItems();	While fry_PollEvent() Wend
+
+	Local tracknames:String[] = LoadDir(gSaveLoc+"Tracks")
+	Local trackname:String
+
+	tracknames.sort()
 	
-	Local dir:Int = ReadDir(gSaveLoc+"Tracks")
-	
-	Repeat
-		Local trackname$=NextFile( dir )
-		If Right(trackname,4) = ".trk" 'and trackname <> "QuickMatch.db"
+	For trackname:String = EachIn tracknames
+		If Right(trackname,4) = ".trk"
 			tbl_Editor_LoadTrack.AddItem([Left(trackname, Len(trackname)-4)],0,Null)
 		EndIf
-		If trackname="" Exit
-	Forever
-	
-	CloseDir dir
+	Next
 	
 	tbl_Editor_LoadTrack.SelectItem(0)
 End Function
