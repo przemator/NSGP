@@ -1,8 +1,0 @@
-<screen name="screen_start">
-	<panel name="pan_title"/>
-	<panel name="pan_exitgame"/>
-	<panel name="pan_start"/>
-	<panel name="pan_loadgame"/>
-	<panel name="pan_quickrace"/>
-	<panel name="pan_loadreplay"/>
-</screen>

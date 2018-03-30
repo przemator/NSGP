@@ -1,6 +1,0 @@
-<panel name="pan_loadgame" x="450" y="340" w="300" h="230" colour="" alpha="0.75">
-	<table name="tbl_load" x="10" y="10" heading="Game Name" w="280" h="185" ih="18" alpha="0.5" colour="000000" textcolour="FFFFFF" selectcolour="FFFF00" selecttext="000000" headcolour="333333" headalpha="0.5" selectalpha="0.5" font="">
-	</table>
-	<button name="btn_loadgame" x="10" y="200" w="180" h="20" text="Load" link="" textcolour="FFFFFF" font="Default"/>
-	<button name="btn_delgame" x="200" y="200" w="90" h="20" text="Delete" link="" textcolour="FFFFFF" font="Default"/>
-</panel>

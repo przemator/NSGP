@@ -1,8 +1,0 @@
-<panel name="pan_roulettecontrols" x="690" y="310" w="100" h="220" colour="" alpha="0.75">
-	<label name="lbl_stake"			x="10"	y="8" w="80" h="20" text="Stake" xalign="0" yalign="1" textcolour="FFFFFF" font="Medium"/>
-	<combobox name="cmb_betamount"	x="10" 	y="30" w="80" h="20" yalign="1"	text="Stake" font=""/>
-	<label name="lbl_totalbet"		x="10"	y="58" w="80" h="20" text="Total Bet" xalign="1" yalign="1" textcolour="FFFFFF" font="Medium"/>
-	<label name="lbl_bettotal"		x="10"	y="82" w="80" h="20" text="0" xalign="1" yalign="1" textcolour="FFFFFF" font="Medium"/>
-	<button name="btn_spin"			x="10" 	y="120" 		w="80"		h="40"	yalign="1"	text="Spin" font="Medium"/>
-	<button name="btn_clear"		x="10" 	y="170" 	w="80"		h="40"	yalign="1"	text="Clear" font="Medium"/>
-</panel>

@@ -1,5 +1,0 @@
-﻿c/u/Ekipe
-
-Tu se nahajajo podatki o vseh ekipah in voznikih. Uporabi navigacijske gumbe za listanje med ekipami.
-
-btn_TeamProfile_EditTeam/Uredi imena ekipe, vodje moštva in voznikov.

@@ -1,5 +1,0 @@
-<screen name="screen_newplayer">
-	<panel name="pan_header"/>
-	<panel name="pan_newplayer"/>
-	<panel name="pan_newplayer_nav"/>
-</screen>

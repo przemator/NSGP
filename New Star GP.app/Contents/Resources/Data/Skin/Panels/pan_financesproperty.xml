@@ -1,8 +1,0 @@
-<panel name="pan_financesproperty" x="540" y="80" w="250" h="440" colour="" alpha="0.75">
-	<label name="lbl_title" 		x="10" 		y="5" 		w="230" 	h="20" textcolour="FFFFFF" text="Property" xalign="1" font="Medium"/>
-	<table name="tbl_shopitems" 	x="10" 		y="145" 	heading="Property" w="108" h="245" ih="16" alpha="0.5" colour="000000" textcolour="FFFFFF" selectcolour="FFFF00" selecttext="000000" headcolour="333333" headalpha="0.5" selectalpha="0.5" font="Small">
-		<tablecolumn heading="shop_Price" w="78"/>
-		<tablecolumn heading="shop_Own" w="36"/>
-	</table>
-	<button name="btn_propertybuy"	x="10" y="400" w="230" h="30" text="shop_Buy" link="" font="Medium"/>
-</panel>

@@ -1,5 +1,0 @@
-﻿c/u/Hold
-
-Alle holdenes og kørernes detaljer kan blive fundet her. Brug navigationsknapperne til at skifte imellem holdene. 
-
-btn_TeamProfile_EditTeam/Du kan ændre navnene på holdet, direktøren og kørerne.

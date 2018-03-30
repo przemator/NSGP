@@ -1,6 +1,0 @@
-<panel name="pan_editortrackmap" x="320" y="160" w="300" h="110" colour="" alpha="0.75">
-	<label name="lbl_title"		x="10"		y="5"		w="280"		h="30" text="Load Map"	xalign="1" yalign="1" textcolour="FFFFFF" font="Large"/>
-	<label name="lbl_name" 		x="10" 		y="50" 		w="60" 		h="20" textcolour="FFFFFF" text="Name" xalign="2" font=""/>
-	<textfield name="txt_name" 	x="80" 		y="50" 		w="210" 	h="20" textcolour="000000"/>
-	<checkbox name="chk_map" 	x="20" 	y="80"	w="280" 	h="20" 	text="Use Map" link="" textcolour="FFFFFF" font=""/>
-</panel>

@@ -1,6 +1,0 @@
-﻿<screen name="screen_news">
-	<panel name="pan_header"/>
-	<panel name="pan_news"/>
-	<panel name="pan_news_nav"/>
-	<panel name="pan_date"/>
-</screen>
